@@ -1,0 +1,950 @@
+{
+  "primary": [
+    {
+      "id": "heather",
+      "name": "Dr. Heather Hallam-Helbich, Ph.D., C.Psych., C.T.S.",
+      "short_name": "Dr. Heather Hallam-Helbich",
+      "title": "Clinical Director, Registered Psychologist, Certified Trauma Specialist",
+      "image": "/static/img/dr-heather-hallam-helbich.webp",
+      "populations": "Children, Adolescents, Parents",
+      "services": "Psychotherapy, Psychological Assessments, Psychoeducational Assessments, ADHD Assessments, Autism Assessments",
+      "education": "Honours Bachelor in Psychology, Masters in Educational Psychology, Doctorate in Clinical Psychology",
+      "membership": "College of Psychologists and Behaviour Analysts of Ontario, Canadian Psychological Association",
+      "areas_of_focus": "Anxiety, Depression, Trauma, ADHD, Autism, Self-Esteem, Parenting, OCD, Behavioural Concerns, Emotional Regulation, Learning Disabilities; Developmental Delay, Adjustment Disorders",
+      "specialized_training": "Certified Trauma Specialist",
+      "therapy_toolkit": "Behaviour Therapy, CBT, DBT, Solution-Focused Therapy",
+      "bio": [
+        "Dr. Hallam-Helbich considers it an absolute privilege and joy to work with clients ages 3 to 25 to support them and their parents collaboratively. She brings more than 30 years of experience working with people from a range of cultural and socioeconomic backgrounds. In her work, she incorporates therapeutic approaches, play therapy techniques, and hands-on activities to support cognitive and behavioural change, renewed confidence, and growth.",
+        "Dr. Hallam-Helbich completes thorough assessments to identify clients’ cognitive, academic, socio-emotional, and behavioural needs. She helps clarify diagnoses and provides appropriate referrals so clients and parents can advocate for themselves or their children. She helps individuals obtain educational plans that support them in reaching their potential and provides parents with behaviour management strategies and support for addressing difficult issues at home."
+      ]
+    },
+    {
+      "id": "amy",
+      "name": "Amy Wilson",
+      "short_name": "Amy Wilson",
+      "title": "Clinic Manager",
+      "image": "/static/img/amy-wilson.webp",
+      "services": "Client Support, Office Administration, Clinical Operations Support",
+      "bio": [
+        "Amy Wilson has more than 25 years of customer service and office systems experience. Her healthcare training provided a deep appreciation for client relations and confidentiality, which is a valuable benefit to our clients and the clinic’s operations. Amy’s passion is helping people around her and building strong supportive relationships."
+      ]
+    }
+  ],
+  "practitioners": [
+    {
+      "id": "amy-tran",
+      "name": "Dr. Amy Tran, Ph.D., C.Psych.",
+      "short_name": "Dr. Amy Tran",
+      "title": "Registered Psychologist",
+      "image": "/static/img/dr-amy-tran.webp",
+      "populations": "Children, Adolescents, Parents",
+      "services": "Psychotherapy, Psychological Assessments, Psychoeducational Assessments, Autism Assessments, Clinical Supervision",
+      "education": "Honours Bachelor of Arts in Psychology, Master of Arts in Clinical Psychology, Doctorate in Clinical Psychology",
+      "membership": "College of Psychologists and Behaviour Analysts of Ontario, Canadian Psychological Association",
+      "areas_of_focus": "Anxiety Disorders (e.g., social anxiety, phobias, separation anxiety), Obsessive Compulsive Disorder, Depression, Trauma, Self-Esteem, ADHD, Learning Disabilities, Autism",
+      "specialized_training": "Collaborative Problem Solving, Trauma-Focused CBT",
+      "therapy_toolkit": "CBT, DBT skills, ACT, Solution-Focused Therapy, Exposure and Response Prevention",
+      "bio": [
+        "Dr. Amy Tran strongly believes that every person’s story deserves careful attention. How we understand a concern can shape how we respond to it. She takes time to understand each person’s unique experiences, strengths, relationships, and developmental needs to create a safe space where youth and families feel heard, understood, and supported.",
+        "Dr. Tran completed her Ph.D. in child and adolescent clinical psychology. Her specific training provides a strong foundation in child and adolescent development and in understanding young people’s challenges within the context of their stage of life, family, and school environment. She provides therapy and assessment services to clients with a warm, thoughtful, and collaborative approach.",
+        "Dr. Tran’s previous clinical experiences include the Regional Children’s Centre, The Summit Centre for Preschool Children with Autism, the Toronto Catholic District School Board, Grand River Hospital, and Youthdale Treatment Centres. In therapy, she employs evidence-based strategies to help clients navigate difficult emotions, strengthen relationships, and build confidence in themselves. Her work also incorporates nervous system regulation strategies to support the mind-body connection and help people feel calmer and more in control. She helps families make sense of assessment findings and understand their next steps, including how recommendations can inform educators and support teams.",
+        "Dr. Tran is also the author of <em>This Book Is a Safe Space</em>. She has served on advisory boards for mental health apps, appeared as a guest on wellness podcasts, provided workshops to various organizations, and published work in peer-reviewed research journals, magazines, and news publications. Across her clinical work and writing, she is committed to helping young people and their families feel more understood and confident about the path forward."
+      ]
+    },
+    {
+      "id": "elizabeth",
+      "name": "Elizabeth Allevato, M.A., C.Psych.",
+      "short_name": "Elizabeth Allevato",
+      "title": "Registered Psychologist",
+      "image": "/static/img/elizabeth-allevato.webp",
+      "populations": "Children, Adolescents, Adults, Seniors",
+      "services": "Psychotherapy, Psychological Assessments, Psychoeducational Assessments, Autism Assessments, Clinical Supervision",
+      "education": "Honours Bachelor of Arts in Psychology, Master of Arts Clinical and Humanistic Psychology",
+      "membership": "College of Psychologists and Behaviour Analysts of Ontario",
+      "areas_of_focus": "Anxiety, ADHD, Autism, Self-Esteem, Emotional Regulation",
+      "therapy_toolkit": "CBT, ACT, and Solution-Focused Therapy",
+      "bio": [
+        "Elizabeth has always known that she wanted to work in a helping profession. Kindness, compassion, and collaboration are at the core of her work. She believes we all benefit when we support one another in becoming the best versions of ourselves, and she strives to create a therapeutic environment where clients feel understood, respected, and empowered.",
+        "With more than 15 years of experience in both the public and private sectors, Elizabeth has developed a strong background in assessment and intervention. Much of her training has focused on Intellectual Developmental Disorder, Attention-Deficit/Hyperactivity Disorder (ADHD), Autism Spectrum Disorder (ASD), Fetal Alcohol Spectrum Disorder, Specific Learning Disorders, and anxiety disorders. More recently, she has been expanding her knowledge of mood and personality disorders as they relate to assessment and therapeutic support. Although assessments are the primary focus of her practice, she also provides therapy to a smaller caseload of children, adolescents, and adults.",
+        "Elizabeth’s approach is collaborative, flexible, and grounded in evidence-based practices. She wants clients to feel heard and validated while gently exploring patterns of thinking or behaviour that may be getting in the way of their goals. She believes therapy works best when it meets people where they are, so she adapts sessions to each person’s strengths, needs, and circumstances. With children, therapy often focuses on practical skills for emotional regulation, cognitive flexibility, attention, and impulse control. With adolescents and adults, sessions are more collaborative, with clients actively helping to set the agenda and develop their goals."
+      ]
+    },
+    {
+      "id": "kathy",
+      "name": "Kathy Morneau, MSW, RSW",
+      "short_name": "Kathy Morneau",
+      "title": "Registered Social Worker",
+      "image": "/static/img/kathy-morneau.webp",
+      "populations": "Children, Adolescents, Adults, Couples, Families, Parents, Seniors",
+      "services": "Psychotherapy",
+      "education": "Bachelor of Social Work, Master of Social Work",
+      "membership": "Ontario College of Social Workers and Social Service Workers, Ontario Association of Social Workers",
+      "areas_of_focus": "Anxiety, Depression, Trauma, ADHD, Self-Esteem, Stress, Burnout, Relationships, Parenting, Grief, OCD, Behavioural Concerns, Emotional Regulation, Life Transitions, Workplace Stress",
+      "therapy_toolkit": "CBT, DBT, Solution Focused, Brief Narrative",
+      "bio": [
+        "Kathy Morneau has been a social worker in Windsor-Essex County for over 30 years. She graduated from the University of Windsor in 1985 and has been working with children/adolescents and families since that time. Her resume includes both clinical work and leadership, having worked in both outpatient and inpatient services. Kathy is an active member of the Ontario College of Social Workers and Social Services Workers and the Ontario Association of Social Workers.",
+        "Trained in psychodynamic, cognitive behavioural and systemic approaches to therapy, Kathy tailors interventions to the needs of her clients. She provides therapy in individual and family formats, as well as parent consultation and couples therapy."
+      ]
+    },
+    {
+      "id": "kathryn-huyge",
+      "name": "Kathryn Huyge, RP",
+      "short_name": "Kathryn Huyge",
+      "title": "Registered Psychotherapist",
+      "image": "/static/img/kathryn-huyge.webp",
+      "populations": "Children, Adolescents, Adults, Parents, Seniors",
+      "services": "Psychotherapy",
+      "education": "Honours Bachelor of Social Work, Master of Arts in Counselling Psychology",
+      "membership": "College of Registered Psychotherapists of Ontario, Canadian Counselling and Psychotherapy Association",
+      "areas_of_focus": "Anxiety, Depression, Trauma, ADHD, Autism, Self-Esteem, Stress, Burnout, Relationships, Parenting, Behavioural Concerns, Emotional Regulation, Workplace Stress",
+      "therapy_toolkit": "CBT, DBT, Solution Focused Therapy",
+      "bio": [
+        "Kathryn has over 17 years of experience in the area of mental health. She also has 7 years of practice as a psychotherapist working with a diverse group of individuals (ages 10 +) and families presenting with a wide array of needs including anxiety, depression, stress management and trauma.",
+        "Kathryn has learned to first listen to understand. Once the individual is ready and feeling supported, she then assists her clients in determining their specific focus for treatment. This approach helps clients to feel that they have a strong, well-informed ally throughout their therapeutic journey."
+      ]
+    },
+    {
+      "id": "kathryn-irabelli",
+      "name": "Kathryn Irabelli, MSW",
+      "short_name": "Kathryn Irabelli",
+      "title": "Registered Social Worker",
+      "image": "/static/img/kathryn-irabelli.webp",
+      "populations": "Adults, Couples, Seniors",
+      "services": "Psychotherapy",
+      "education": "Master of Social Work",
+      "membership": "Ontario College of Social Workers and Social Service Workers, Ontario Association of Social Workers",
+      "areas_of_focus": "Anxiety, Depression, Self-Esteem, Stress, Burnout, Relationships, Grief, Behavioural Concerns, Life Transitions, Workplace Stress",
+      "therapy_toolkit": "CBT, DBT, Solution-Focused",
+      "bio": [
+        "Kathryn Irabelli has practised social work in the Windsor and Essex County area for more than 30 years. She graduated from the University of Windsor in 1992 with a Master of Social Work and has extensive experience working with children, families, adults, and couples in a variety of settings. Kathryn supports people navigating mental health and substance use concerns, stress, grief, relationship difficulties, and other life challenges."
+      ]
+    },
+    {
+      "id": "kimberly",
+      "name": "Kimberly Court, MSW, RSW",
+      "short_name": "Kimberly Court",
+      "title": "Registered Social Worker",
+      "image": "/static/img/kimberly-court.webp",
+      "populations": "Children, Adults, Couples, Parents",
+      "services": "Psychotherapy",
+      "education": "Bachelor of Social Work, Master of Social Work",
+      "membership": "Ontario College of Social Workers and Social Service Workers",
+      "areas_of_focus": "Anxiety, ADHD, Self-Esteem, Stress, Relationships, Parenting, Grief, Emotional Regulation, Life Transitions, Workplace Stress",
+      "specialized_training": "Circle of Security International facilitator; training through David Kessler for grief and loss",
+      "therapy_toolkit": "CBT, DBT, Solution Focused Therapy, Grief/Loss, Narrative and Strengths Based Therapy, Gottman",
+      "bio": [
+        "Kim believes that when life feels overwhelming, heartbreaking, or challenging, people possess inner resources that can help them move forward. She also recognizes that doing this work alone is difficult and that being vulnerable can feel scary. Having someone to navigate these seasons with can make a profound difference.",
+        "Kim recognizes that clients are the experts in their own lives. She works collaboratively with them to identify personal goals, reconnect with their innate strengths, and build the skills they need to move forward. Her hope is that clients leave their sessions feeling more confident, emotionally healthy, and empowered.",
+        "Kim tailors her approach to each individual or couple. She draws on a range of evidence-based approaches, including grief and loss therapy, strengths-based and narrative approaches, cognitive and dialectical behavioural therapies, solution-focused therapy, Gottman methods, and Collaborative Problem Solving. She is also a trained facilitator with Circle of Security International and provides reflective, attachment-based parenting support.",
+        "Above all, Kim wants clients to feel safe, heard, and validated. She offers an empathetic, compassionate, and nonjudgmental space where they can share their stories and begin their healing journey."
+      ]
+    },
+    {
+      "id": "levi",
+      "name": "Levi Rogers, MSW, RSW",
+      "short_name": "Levi Rogers",
+      "title": "Registered Social Worker",
+      "image": "/static/img/levi-rogers.webp",
+      "populations": "Children, Adolescents, Adults, Families, Parents, Seniors",
+      "services": "Psychotherapy, Individual and Family Counselling",
+      "education": "Master of Social Work, Bachelor of Social Work, Child and Youth Care Diploma, Developmental Services Worker Diploma",
+      "membership": "Ontario College of Social Workers and Social Service Workers, Ontario Association of Social Workers",
+      "areas_of_focus": "Anxiety, Depression, Trauma, ADHD, Self-Esteem, Stress, Burnout, Relationships, Parenting, OCD, Behavioural Concerns, Emotional Regulation, Life Transitions, Workplace Stress, Self-harm, school and work avoidance, parent-child conflict, interpersonal effectiveness",
+      "specialized_training": "Worry No More Training (Anxiety) with Dr. Aureen Wagner, Worry No More Training (OCD) w/ Dr. Aureen Wagner, Group Triple P Facilitator (Positive Parenting Program) Training for Teens and Groups, CPRI Leaky Brakes (Tics) Training, DBT Skills for Adolescents & Families (Psychwire), Foundations of Trauma Focused CBT Training, BECK Institute – Essentials of CBT, Body Peace: Eating Disorder Sensitive: Education for Social Workers & Psychotherapists Training, Trans Wellness Ontario – Diversity Training, 2SLGBTQ+ Training 101 – Pozitive Pathways, LGBTQ+ Clients: Treatment Strategies for Sexual and Gender Identity Issues w/ Aaron Testard, LMFT, LPCC.",
+      "therapy_toolkit": "CBT, Trauma-Focused CBT, DBT, Emotion regulation skills teaching, interpersonal effectiveness skills teaching, Mindfulness, Motivational Interviewing, Solution-Focused Therapy, Exposure and Response Prevention (ERP)",
+      "bio": [
+        "Levi is a Registered Social Worker with experience supporting youth, adults, and families in various clinical settings since 2015. He began practicing as an individual and family therapist in 2020. He has worked at local mental health agencies which helped him to establish a strong clinical foundation and knowledge of supports available in the community to youth and their families. He graduated with a Master of Social Work degree from the University of Windsor and has an Ontario College Advanced Diploma in Child and Youth Care (CYC/CYW) and Developmental Services Worker (DSW).",
+        "Accredited as a Triple-P (Positive Parenting Program) facilitator, Levi has experience supporting parents and families with treating behavioral and emotional challenges experienced by children and youth.",
+        "Levi is trained in several therapeutic treatment modalities. He takes a collaborative, trauma-informed and anti-oppressive approach to supporting clients in meeting their personal goals. Levi is a compassionate, engaging, and skilled clinician who prioritizes empathy and respect for his clients. He recognizes that attending therapy may not come easy to each person, and therefore is committed to building a comfortable and safe environment where clients feel seen, heard, and valued.",
+        "Levi teaches part-time in St. Clair College’s Developmental Services Worker program, which trains professionals to support people with intellectual and developmental disabilities throughout their lives. Graduates work as support workers, advocates, or educational assistants. He enjoys teaching developmental psychology, positive behavioural supports, interpersonal counselling, dual diagnosis, and mental health intervention."
+      ]
+    },
+    {
+      "id": "samantha",
+      "name": "Samantha McKinley, MSW, RSW",
+      "short_name": "Samantha McKinley",
+      "title": "Registered Social Worker",
+      "image": "/static/img/samantha-mckinley.webp",
+      "populations": "Youth, Adults, Couples, Families, Parents, Seniors",
+      "services": "Psychotherapy",
+      "education": "Bachelor of Social Work, Master of Social Work",
+      "membership": "Ontario College of Social Workers and Social Service Workers",
+      "areas_of_focus": "Anxiety, Depression, Self-Esteem, Stress, Burnout, Relationships, Parenting, Life Transitions, Workplace Stress, Marriage breakdown, separation, divorce",
+      "therapy_toolkit": "CBT, Emotion-Focused Therapy, Gottman Method, Solution-Focused Therapy",
+      "bio": [
+        "Samantha is a compassionate social worker dedicated to supporting the wellbeing of individuals and families.",
+        "She is skilled at helping adults, youth, and children to navigate through life’s challenges with empathy and a nonjudgmental approach. Samantha has a special interest in guiding clients through separation and divorce, strengthening marriage and long-term relationships, nurturing parent management skills, and embracing the joys and challenges of first-time parenting. Samantha is particularly adept at working with blended families and parenting stepchildren, as well as addressing postpartum depression, family dynamics, and setting boundaries. She is passionate about helping individuals to boost their self-esteem and self-worth, encouraging them to recognize and celebrate their unique strengths and qualities.",
+        "Samantha believes strong families create a healthier society. She is committed to helping clients cultivate self-compassion, resilience, and emotional wellbeing.",
+        "In addition, Samantha has a background in family law, helping families and individuals during transitions, family interventions, and child protection. She currently also work within a branch of the Attorney General of Ontario as an investigative clinician completing custody and access assessments."
+      ]
+    },
+    {
+      "id": "stephanie",
+      "name": "Stephanie Tellier, RP, CCC",
+      "short_name": "Stephanie Tellier",
+      "title": "Registered Psychotherapist",
+      "image": "/static/img/stephanie-tellier.webp",
+      "populations": "Adults, Couples, Adolescents (16+)",
+      "services": "Psychotherapy",
+      "education": "Bachelor of Arts in Family and Social Relations, Master of Arts in Clinical Mental Health Counseling, Master of Education in Human Sexuality Studies - Sex Therapy Specialization, Doctorate in Human Sexuality Studies - Sex Therapy Specialization (in progress)",
+      "membership": "College of Registered Psychotherapists of Ontario, Canadian Certified Counsellor",
+      "areas_of_focus": "Anxiety, Depression, Trauma, Relationships, LGBTQ+ Concerns, Sexuality (sexual trauma, post partum, sexual dysfunctions, consensual/ethical non monogamy, BDSM/kink)",
+      "specialized_training": "Intensive Sex Therapy Training Program",
+      "therapy_toolkit": "Integrative, trauma-informed, sex-positive, person-centered, CBT, DBT, Solution-focused",
+      "bio": [
+        "Stephanie values collaboration, authenticity, and curiosity. She strives to create a safe, nonjudgmental space where clients can explore their emotions, relationships, identity, sexuality, stress, and life transitions. Her work focuses on helping clients build self-awareness, emotional regulation, communication skills, and self-compassion while developing more flexible and adaptive ways of coping.",
+        "Stephanie is passionate about providing sexuality-affirming and inclusive care. She is currently pursuing a PhD, with research focused on sexuality, disability, rehabilitation, and adaptive approaches to intimacy and sexual wellbeing."
+      ]
+    },
+    {
+      "id": "taryn",
+      "name": "Taryn Duffy, MSW, RSW",
+      "short_name": "Taryn Duffy",
+      "title": "Registered Social Worker",
+      "image": "/static/img/taryn-duffy.webp",
+      "populations": "Adolescents, Adults, Seniors",
+      "services": "Psychotherapy",
+      "education": "Bachelor of Social Work, Master of Social Work",
+      "membership": "Ontario College of Social Workers and Social Service Workers",
+      "areas_of_focus": "Anxiety, Depression, Trauma, ADHD, Self-Esteem, Stress, Burnout, Grief, Emotional Regulation, Life Transitions",
+      "therapy_toolkit": "Person-centered approach, mindfulness based therapy, CBT, DBT, EMDR",
+      "bio": [
+        "Taryn believes connection between client and therapist is the backbone of therapy. She builds strong rapport with her clients by offering a comforting, kind and grounded space, where clients can feel safe to unpack some of life's heavier moments. Her goal is for each person to feel heard, understood, and supported.",
+        "Taryn works with youth, teens, adults, and seniors through a range of life experiences, including anxiety, trauma, grief, emotional regulation challenges, and periods of personal growth and self-discovery. She also has experience supporting neurodivergent clients.",
+        "She uses a multi-modal approach, pulling from bottom-up approaches like somatic-based, IFS, and EMDR therapy, as well as top-down approaches, such as DBT and CBT and narrative therapy.",
+        "Whether someone feels stuck, isolated, or overwhelmed, or is ready to make a change, Taryn works alongside them to explore their strengths and move toward their goals."
+      ]
+    }
+  ],
+  "students": [
+    {
+      "id": "kenzie-tapp",
+      "name": "Kenzie Tapp, M.A., Ph.D. Candidate",
+      "short_name": "Kenzie Tapp",
+      "title": "University of Windsor Clinical Psychology Student",
+      "image": "/static/img/kenzie-tapp.webp",
+      "supervisor": "Dr. Amy Tran"
+    },
+    {
+      "id": "nour-yassine",
+      "name": "Nour Yassine, M.A. Candidate, Ph.D. Student",
+      "short_name": "Nour Yassine",
+      "title": "University of Windsor Clinical Psychology Student",
+      "image": "/static/img/nour-yassine.webp",
+      "supervisor": "Elizabeth Allevato"
+    },
+    {
+      "id": "erin-firlotte",
+      "name": "Erin Firlotte, M.A., Ph.D. Student",
+      "short_name": "Erin Firlotte",
+      "title": "University of Windsor Clinical Psychology Student",
+      "image": "/static/img/erin-firlotte.webp",
+      "supervisor": "Dr. Amy Tran"
+    },
+    {
+      "id": "jasmine-kobrosli",
+      "name": "Jasmine Kobrosli, M.A., Ph.D. Student",
+      "short_name": "Jasmine Kobrosli",
+      "title": "University of Windsor Clinical Psychology Student",
+      "image": "/static/img/jasmine-kobrosli.webp",
+      "supervisor": "Dr. Amy Tran"
+    }
+  ],
+  "psychometrists": [
+    {
+      "id": "ashley",
+      "name": "Ashley Laporte, B.A.",
+      "short_name": "Ashley Laporte",
+      "title": "Psychometrist",
+      "image": "/static/img/ashley-laporte.webp",
+      "populations": "Children, Adolescents, Adults",
+      "services": "Psychological Assessments, Psychoeducational Assessments, ADHD Assessments, Autism Assessments",
+      "education": "Honours Bachelor of Arts in Developmental Psychology",
+      "specialized_training": "ADOS-2 Assessment Training",
+      "bio": [
+        "As a valued member of our team that provides psychological assessments, Ashley brings with her 14 years of experience administering psychological tests to clients of all ages. Ashley has supported psychological assessments in both school and clinical settings. Her warm personality and friendly demeanor provide optimal comfort so that clients can feel comfortable to do their best."
+      ]
+    },
+    {
+      "id": "doris",
+      "name": "Doris Weber, B.A., B.Ed.",
+      "short_name": "Doris Weber",
+      "title": "Psychometrist",
+      "image": "/static/img/doris-weber.webp",
+      "populations": "Children and Adolescents",
+      "services": "Psychoeducational Assessments",
+      "education": "Bachelor of Arts, Bachelor of Education",
+      "specialized_training": "FSL, TESL certified",
+      "bio": [
+        "Doris taught for 30 years, including 20 years at the elementary level, where she taught French as a Second Language. She also enjoyed 10 years of teaching adult newcomers to Canada as a certified English as a Second Language teacher. Doris enjoys working with children and providing a calm, comforting environment that helps them reach their full potential during testing activities."
+      ]
+    },
+    {
+      "id": "rob",
+      "name": "Rob Kapetanov, B.A., B.Ed.",
+      "short_name": "Rob Kapetanov",
+      "title": "Psychometrist",
+      "image": "/static/img/rob-kapetanov.webp",
+      "populations": "Children, Adolescents, Adults",
+      "services": "Psychoeducational Assessments",
+      "education": "Bachelor of Arts, Bachelor of Education",
+      "specialized_training": "Special Education Specialist AQ, Computer in the Classroom Specialist AQ, Principal's Qualifications",
+      "bio": [
+        "Rob has more than 30 years of experience as a teacher, Special Education Consultant, and principal. He has also taught a variety of special education courses at the postsecondary level through the Faculty of Education and St. Clair College. Rob serves as a trustee for the John McGivney School Authority, which supports children with complex therapeutic needs. Rob enjoys applying his experiences in education to support psychological testing."
+      ]
+    }
+  ],
+  "administration": [
+    {
+      "id": "ben-mazur",
+      "name": "Benjamin Mazur",
+      "short_name": "Benjamin Mazur",
+      "title": "Administrative Director",
+      "image": "/static/img/ben-mazur.webp",
+      "services": "Office Administration, Clinical Operations Support",
+      "bio": [
+        "As Administrative Director, Ben provides leadership to Cornerstone’s Clinic Manager and administrative team and oversees the day-to-day systems and operations that support the clinic. He works closely with the Cornerstone team to ensure the practice remains organized, responsive, and well positioned to meet the needs of clients, families, and clinicians.",
+        "Ben brings extensive experience in entrepreneurship, operations, and organizational leadership to his role. Throughout his career, he has built and led teams, managed complex organizations and projects, and developed a reputation for bringing structure and practical solutions to challenging situations. He brings that experience to Cornerstone, focusing on supporting its people, strengthening the organization, and helping the clinic operate smoothly while maintaining the quality and personal approach that families expect.",
+        "Ben and Dr. Amy Tran hold a long-term commitment to Cornerstone and to serving children, adults, and families throughout Windsor-Essex. They are focused on continuing to build a practice known not only for the quality of its psychological services, but also for being a welcoming, dependable, and supportive place for both clients and team members."
+      ]
+    },
+    {
+      "id": "maggie",
+      "name": "Maggie Davey",
+      "short_name": "Maggie Davey",
+      "title": "Administrator",
+      "image": "/static/img/maggie-davey.webp",
+      "bio": [
+        "Maggie comes to Cornerstone Family Care with more than 18 years of medical office administration experience, the majority of her time working in specialists offices and hospitals. Maggie prides herself on ensuring that all clients are treated with kindness, respect, and the prompt care that they deserve. She has a friendly, calming nature and looks forward to supporting you and your family."
+      ]
+    },
+    {
+      "id": "irene",
+      "name": "Irene Schiller",
+      "short_name": "Irene Schiller",
+      "title": "Administrator",
+      "image": "/static/img/irene-schiller.webp",
+      "education": "Bachelor of Education, Diploma in Honours Standing in Physical Education, Bachelor of Arts in Physical Education",
+      "bio": [
+        "Irene comes to Cornerstone Family Care with over 20 years of administrative support experience, from account management and customer service to executive administrative assistant. She strives for service excellence and ensures clients are dealt with in a timely and efficient manner with the utmost of respect and care. She also strives to be a team player for the organization; helping out wherever she can and working behind the scenes to support the professionals taking care of our clients."
+      ]
+    }
+  ],
+  "members": [
+    {
+      "id": "amy-tran",
+      "name": "Dr. Amy Tran, Ph.D., C.Psych.",
+      "short_name": "Dr. Amy Tran",
+      "title": "Registered Psychologist",
+      "image": "/static/img/dr-amy-tran.webp",
+      "populations": "Children, Adolescents, Parents",
+      "services": "Psychotherapy, Psychological Assessments, Psychoeducational Assessments, Autism Assessments, Clinical Supervision",
+      "education": "Honours Bachelor of Arts in Psychology, Master of Arts in Clinical Psychology, Doctorate in Clinical Psychology",
+      "membership": "College of Psychologists and Behaviour Analysts of Ontario, Canadian Psychological Association",
+      "areas_of_focus": "Anxiety Disorders (e.g., social anxiety, phobias, separation anxiety), Obsessive Compulsive Disorder, Depression, Trauma, Self-Esteem, ADHD, Learning Disabilities, Autism",
+      "specialized_training": "Collaborative Problem Solving, Trauma-Focused CBT",
+      "therapy_toolkit": "CBT, DBT skills, ACT, Solution-Focused Therapy, Exposure and Response Prevention",
+      "bio": [
+        "Dr. Amy Tran strongly believes that every person’s story deserves careful attention. How we understand a concern can shape how we respond to it. She takes time to understand each person’s unique experiences, strengths, relationships, and developmental needs to create a safe space where youth and families feel heard, understood, and supported.",
+        "Dr. Tran completed her Ph.D. in child and adolescent clinical psychology. Her specific training provides a strong foundation in child and adolescent development and in understanding young people’s challenges within the context of their stage of life, family, and school environment. She provides therapy and assessment services to clients with a warm, thoughtful, and collaborative approach.",
+        "Dr. Tran’s previous clinical experiences include the Regional Children’s Centre, The Summit Centre for Preschool Children with Autism, the Toronto Catholic District School Board, Grand River Hospital, and Youthdale Treatment Centres. In therapy, she employs evidence-based strategies to help clients navigate difficult emotions, strengthen relationships, and build confidence in themselves. Her work also incorporates nervous system regulation strategies to support the mind-body connection and help people feel calmer and more in control. She helps families make sense of assessment findings and understand their next steps, including how recommendations can inform educators and support teams.",
+        "Dr. Tran is also the author of <em>This Book Is a Safe Space</em>. She has served on advisory boards for mental health apps, appeared as a guest on wellness podcasts, provided workshops to various organizations, and published work in peer-reviewed research journals, magazines, and news publications. Across her clinical work and writing, she is committed to helping young people and their families feel more understood and confident about the path forward."
+      ]
+    },
+    {
+      "id": "elizabeth",
+      "name": "Elizabeth Allevato, M.A., C.Psych.",
+      "short_name": "Elizabeth Allevato",
+      "title": "Registered Psychologist",
+      "image": "/static/img/elizabeth-allevato.webp",
+      "populations": "Children, Adolescents, Adults, Seniors",
+      "services": "Psychotherapy, Psychological Assessments, Psychoeducational Assessments, Autism Assessments, Clinical Supervision",
+      "education": "Honours Bachelor of Arts in Psychology, Master of Arts Clinical and Humanistic Psychology",
+      "membership": "College of Psychologists and Behaviour Analysts of Ontario",
+      "areas_of_focus": "Anxiety, ADHD, Autism, Self-Esteem, Emotional Regulation",
+      "therapy_toolkit": "CBT, ACT, and Solution-Focused Therapy",
+      "bio": [
+        "Elizabeth has always known that she wanted to work in a helping profession. Kindness, compassion, and collaboration are at the core of her work. She believes we all benefit when we support one another in becoming the best versions of ourselves, and she strives to create a therapeutic environment where clients feel understood, respected, and empowered.",
+        "With more than 15 years of experience in both the public and private sectors, Elizabeth has developed a strong background in assessment and intervention. Much of her training has focused on Intellectual Developmental Disorder, Attention-Deficit/Hyperactivity Disorder (ADHD), Autism Spectrum Disorder (ASD), Fetal Alcohol Spectrum Disorder, Specific Learning Disorders, and anxiety disorders. More recently, she has been expanding her knowledge of mood and personality disorders as they relate to assessment and therapeutic support. Although assessments are the primary focus of her practice, she also provides therapy to a smaller caseload of children, adolescents, and adults.",
+        "Elizabeth’s approach is collaborative, flexible, and grounded in evidence-based practices. She wants clients to feel heard and validated while gently exploring patterns of thinking or behaviour that may be getting in the way of their goals. She believes therapy works best when it meets people where they are, so she adapts sessions to each person’s strengths, needs, and circumstances. With children, therapy often focuses on practical skills for emotional regulation, cognitive flexibility, attention, and impulse control. With adolescents and adults, sessions are more collaborative, with clients actively helping to set the agenda and develop their goals."
+      ]
+    },
+    {
+      "id": "kathy",
+      "name": "Kathy Morneau, MSW, RSW",
+      "short_name": "Kathy Morneau",
+      "title": "Registered Social Worker",
+      "image": "/static/img/kathy-morneau.webp",
+      "populations": "Children, Adolescents, Adults, Couples, Families, Parents, Seniors",
+      "services": "Psychotherapy",
+      "education": "Bachelor of Social Work, Master of Social Work",
+      "membership": "Ontario College of Social Workers and Social Service Workers, Ontario Association of Social Workers",
+      "areas_of_focus": "Anxiety, Depression, Trauma, ADHD, Self-Esteem, Stress, Burnout, Relationships, Parenting, Grief, OCD, Behavioural Concerns, Emotional Regulation, Life Transitions, Workplace Stress",
+      "therapy_toolkit": "CBT, DBT, Solution Focused, Brief Narrative",
+      "bio": [
+        "Kathy Morneau has been a social worker in Windsor-Essex County for over 30 years. She graduated from the University of Windsor in 1985 and has been working with children/adolescents and families since that time. Her resume includes both clinical work and leadership, having worked in both outpatient and inpatient services. Kathy is an active member of the Ontario College of Social Workers and Social Services Workers and the Ontario Association of Social Workers.",
+        "Trained in psychodynamic, cognitive behavioural and systemic approaches to therapy, Kathy tailors interventions to the needs of her clients. She provides therapy in individual and family formats, as well as parent consultation and couples therapy."
+      ]
+    },
+    {
+      "id": "kathryn-huyge",
+      "name": "Kathryn Huyge, RP",
+      "short_name": "Kathryn Huyge",
+      "title": "Registered Psychotherapist",
+      "image": "/static/img/kathryn-huyge.webp",
+      "populations": "Children, Adolescents, Adults, Parents, Seniors",
+      "services": "Psychotherapy",
+      "education": "Honours Bachelor of Social Work, Master of Arts in Counselling Psychology",
+      "membership": "College of Registered Psychotherapists of Ontario, Canadian Counselling and Psychotherapy Association",
+      "areas_of_focus": "Anxiety, Depression, Trauma, ADHD, Autism, Self-Esteem, Stress, Burnout, Relationships, Parenting, Behavioural Concerns, Emotional Regulation, Workplace Stress",
+      "therapy_toolkit": "CBT, DBT, Solution Focused Therapy",
+      "bio": [
+        "Kathryn has over 17 years of experience in the area of mental health. She also has 7 years of practice as a psychotherapist working with a diverse group of individuals (ages 10 +) and families presenting with a wide array of needs including anxiety, depression, stress management and trauma.",
+        "Kathryn has learned to first listen to understand. Once the individual is ready and feeling supported, she then assists her clients in determining their specific focus for treatment. This approach helps clients to feel that they have a strong, well-informed ally throughout their therapeutic journey."
+      ]
+    },
+    {
+      "id": "kathryn-irabelli",
+      "name": "Kathryn Irabelli, MSW",
+      "short_name": "Kathryn Irabelli",
+      "title": "Registered Social Worker",
+      "image": "/static/img/kathryn-irabelli.webp",
+      "populations": "Adults, Couples, Seniors",
+      "services": "Psychotherapy",
+      "education": "Master of Social Work",
+      "membership": "Ontario College of Social Workers and Social Service Workers, Ontario Association of Social Workers",
+      "areas_of_focus": "Anxiety, Depression, Self-Esteem, Stress, Burnout, Relationships, Grief, Behavioural Concerns, Life Transitions, Workplace Stress",
+      "therapy_toolkit": "CBT, DBT, Solution-Focused",
+      "bio": [
+        "Kathryn Irabelli has practised social work in the Windsor and Essex County area for more than 30 years. She graduated from the University of Windsor in 1992 with a Master of Social Work and has extensive experience working with children, families, adults, and couples in a variety of settings. Kathryn supports people navigating mental health and substance use concerns, stress, grief, relationship difficulties, and other life challenges."
+      ]
+    },
+    {
+      "id": "kimberly",
+      "name": "Kimberly Court, MSW, RSW",
+      "short_name": "Kimberly Court",
+      "title": "Registered Social Worker",
+      "image": "/static/img/kimberly-court.webp",
+      "populations": "Children, Adults, Couples, Parents",
+      "services": "Psychotherapy",
+      "education": "Bachelor of Social Work, Master of Social Work",
+      "membership": "Ontario College of Social Workers and Social Service Workers",
+      "areas_of_focus": "Anxiety, ADHD, Self-Esteem, Stress, Relationships, Parenting, Grief, Emotional Regulation, Life Transitions, Workplace Stress",
+      "specialized_training": "Circle of Security International facilitator; training through David Kessler for grief and loss",
+      "therapy_toolkit": "CBT, DBT, Solution Focused Therapy, Grief/Loss, Narrative and Strengths Based Therapy, Gottman",
+      "bio": [
+        "Kim believes that when life feels overwhelming, heartbreaking, or challenging, people possess inner resources that can help them move forward. She also recognizes that doing this work alone is difficult and that being vulnerable can feel scary. Having someone to navigate these seasons with can make a profound difference.",
+        "Kim recognizes that clients are the experts in their own lives. She works collaboratively with them to identify personal goals, reconnect with their innate strengths, and build the skills they need to move forward. Her hope is that clients leave their sessions feeling more confident, emotionally healthy, and empowered.",
+        "Kim tailors her approach to each individual or couple. She draws on a range of evidence-based approaches, including grief and loss therapy, strengths-based and narrative approaches, cognitive and dialectical behavioural therapies, solution-focused therapy, Gottman methods, and Collaborative Problem Solving. She is also a trained facilitator with Circle of Security International and provides reflective, attachment-based parenting support.",
+        "Above all, Kim wants clients to feel safe, heard, and validated. She offers an empathetic, compassionate, and nonjudgmental space where they can share their stories and begin their healing journey."
+      ]
+    },
+    {
+      "id": "levi",
+      "name": "Levi Rogers, MSW, RSW",
+      "short_name": "Levi Rogers",
+      "title": "Registered Social Worker",
+      "image": "/static/img/levi-rogers.webp",
+      "populations": "Children, Adolescents, Adults, Families, Parents, Seniors",
+      "services": "Psychotherapy, Individual and Family Counselling",
+      "education": "Master of Social Work, Bachelor of Social Work, Child and Youth Care Diploma, Developmental Services Worker Diploma",
+      "membership": "Ontario College of Social Workers and Social Service Workers, Ontario Association of Social Workers",
+      "areas_of_focus": "Anxiety, Depression, Trauma, ADHD, Self-Esteem, Stress, Burnout, Relationships, Parenting, OCD, Behavioural Concerns, Emotional Regulation, Life Transitions, Workplace Stress, Self-harm, school and work avoidance, parent-child conflict, interpersonal effectiveness",
+      "specialized_training": "Worry No More Training (Anxiety) with Dr. Aureen Wagner, Worry No More Training (OCD) w/ Dr. Aureen Wagner, Group Triple P Facilitator (Positive Parenting Program) Training for Teens and Groups, CPRI Leaky Brakes (Tics) Training, DBT Skills for Adolescents & Families (Psychwire), Foundations of Trauma Focused CBT Training, BECK Institute – Essentials of CBT, Body Peace: Eating Disorder Sensitive: Education for Social Workers & Psychotherapists Training, Trans Wellness Ontario – Diversity Training, 2SLGBTQ+ Training 101 – Pozitive Pathways, LGBTQ+ Clients: Treatment Strategies for Sexual and Gender Identity Issues w/ Aaron Testard, LMFT, LPCC.",
+      "therapy_toolkit": "CBT, Trauma-Focused CBT, DBT, Emotion regulation skills teaching, interpersonal effectiveness skills teaching, Mindfulness, Motivational Interviewing, Solution-Focused Therapy, Exposure and Response Prevention (ERP)",
+      "bio": [
+        "Levi is a Registered Social Worker with experience supporting youth, adults, and families in various clinical settings since 2015. He began practicing as an individual and family therapist in 2020. He has worked at local mental health agencies which helped him to establish a strong clinical foundation and knowledge of supports available in the community to youth and their families. He graduated with a Master of Social Work degree from the University of Windsor and has an Ontario College Advanced Diploma in Child and Youth Care (CYC/CYW) and Developmental Services Worker (DSW).",
+        "Accredited as a Triple-P (Positive Parenting Program) facilitator, Levi has experience supporting parents and families with treating behavioral and emotional challenges experienced by children and youth.",
+        "Levi is trained in several therapeutic treatment modalities. He takes a collaborative, trauma-informed and anti-oppressive approach to supporting clients in meeting their personal goals. Levi is a compassionate, engaging, and skilled clinician who prioritizes empathy and respect for his clients. He recognizes that attending therapy may not come easy to each person, and therefore is committed to building a comfortable and safe environment where clients feel seen, heard, and valued.",
+        "Levi teaches part-time in St. Clair College’s Developmental Services Worker program, which trains professionals to support people with intellectual and developmental disabilities throughout their lives. Graduates work as support workers, advocates, or educational assistants. He enjoys teaching developmental psychology, positive behavioural supports, interpersonal counselling, dual diagnosis, and mental health intervention."
+      ]
+    },
+    {
+      "id": "samantha",
+      "name": "Samantha McKinley, MSW, RSW",
+      "short_name": "Samantha McKinley",
+      "title": "Registered Social Worker",
+      "image": "/static/img/samantha-mckinley.webp",
+      "populations": "Youth, Adults, Couples, Families, Parents, Seniors",
+      "services": "Psychotherapy",
+      "education": "Bachelor of Social Work, Master of Social Work",
+      "membership": "Ontario College of Social Workers and Social Service Workers",
+      "areas_of_focus": "Anxiety, Depression, Self-Esteem, Stress, Burnout, Relationships, Parenting, Life Transitions, Workplace Stress, Marriage breakdown, separation, divorce",
+      "therapy_toolkit": "CBT, Emotion-Focused Therapy, Gottman Method, Solution-Focused Therapy",
+      "bio": [
+        "Samantha is a compassionate social worker dedicated to supporting the wellbeing of individuals and families.",
+        "She is skilled at helping adults, youth, and children to navigate through life’s challenges with empathy and a nonjudgmental approach. Samantha has a special interest in guiding clients through separation and divorce, strengthening marriage and long-term relationships, nurturing parent management skills, and embracing the joys and challenges of first-time parenting. Samantha is particularly adept at working with blended families and parenting stepchildren, as well as addressing postpartum depression, family dynamics, and setting boundaries. She is passionate about helping individuals to boost their self-esteem and self-worth, encouraging them to recognize and celebrate their unique strengths and qualities.",
+        "Samantha believes strong families create a healthier society. She is committed to helping clients cultivate self-compassion, resilience, and emotional wellbeing.",
+        "In addition, Samantha has a background in family law, helping families and individuals during transitions, family interventions, and child protection. She currently also work within a branch of the Attorney General of Ontario as an investigative clinician completing custody and access assessments."
+      ]
+    },
+    {
+      "id": "stephanie",
+      "name": "Stephanie Tellier, RP, CCC",
+      "short_name": "Stephanie Tellier",
+      "title": "Registered Psychotherapist",
+      "image": "/static/img/stephanie-tellier.webp",
+      "populations": "Adults, Couples, Adolescents (16+)",
+      "services": "Psychotherapy",
+      "education": "Bachelor of Arts in Family and Social Relations, Master of Arts in Clinical Mental Health Counseling, Master of Education in Human Sexuality Studies - Sex Therapy Specialization, Doctorate in Human Sexuality Studies - Sex Therapy Specialization (in progress)",
+      "membership": "College of Registered Psychotherapists of Ontario, Canadian Certified Counsellor",
+      "areas_of_focus": "Anxiety, Depression, Trauma, Relationships, LGBTQ+ Concerns, Sexuality (sexual trauma, post partum, sexual dysfunctions, consensual/ethical non monogamy, BDSM/kink)",
+      "specialized_training": "Intensive Sex Therapy Training Program",
+      "therapy_toolkit": "Integrative, trauma-informed, sex-positive, person-centered, CBT, DBT, Solution-focused",
+      "bio": [
+        "Stephanie values collaboration, authenticity, and curiosity. She strives to create a safe, nonjudgmental space where clients can explore their emotions, relationships, identity, sexuality, stress, and life transitions. Her work focuses on helping clients build self-awareness, emotional regulation, communication skills, and self-compassion while developing more flexible and adaptive ways of coping.",
+        "Stephanie is passionate about providing sexuality-affirming and inclusive care. She is currently pursuing a PhD, with research focused on sexuality, disability, rehabilitation, and adaptive approaches to intimacy and sexual wellbeing."
+      ]
+    },
+    {
+      "id": "taryn",
+      "name": "Taryn Duffy, MSW, RSW",
+      "short_name": "Taryn Duffy",
+      "title": "Registered Social Worker",
+      "image": "/static/img/taryn-duffy.webp",
+      "populations": "Adolescents, Adults, Seniors",
+      "services": "Psychotherapy",
+      "education": "Bachelor of Social Work, Master of Social Work",
+      "membership": "Ontario College of Social Workers and Social Service Workers",
+      "areas_of_focus": "Anxiety, Depression, Trauma, ADHD, Self-Esteem, Stress, Burnout, Grief, Emotional Regulation, Life Transitions",
+      "therapy_toolkit": "Person-centered approach, mindfulness based therapy, CBT, DBT, EMDR",
+      "bio": [
+        "Taryn believes connection between client and therapist is the backbone of therapy. She builds strong rapport with her clients by offering a comforting, kind and grounded space, where clients can feel safe to unpack some of life's heavier moments. Her goal is for each person to feel heard, understood, and supported.",
+        "Taryn works with youth, teens, adults, and seniors through a range of life experiences, including anxiety, trauma, grief, emotional regulation challenges, and periods of personal growth and self-discovery. She also has experience supporting neurodivergent clients.",
+        "She uses a multi-modal approach, pulling from bottom-up approaches like somatic-based, IFS, and EMDR therapy, as well as top-down approaches, such as DBT and CBT and narrative therapy.",
+        "Whether someone feels stuck, isolated, or overwhelmed, or is ready to make a change, Taryn works alongside them to explore their strengths and move toward their goals."
+      ]
+    },
+    {
+      "id": "kenzie-tapp",
+      "name": "Kenzie Tapp, M.A., Ph.D. Candidate",
+      "short_name": "Kenzie Tapp",
+      "title": "University of Windsor Clinical Psychology Student",
+      "image": "/static/img/kenzie-tapp.webp",
+      "supervisor": "Dr. Amy Tran"
+    },
+    {
+      "id": "nour-yassine",
+      "name": "Nour Yassine, M.A. Candidate, Ph.D. Student",
+      "short_name": "Nour Yassine",
+      "title": "University of Windsor Clinical Psychology Student",
+      "image": "/static/img/nour-yassine.webp",
+      "supervisor": "Elizabeth Allevato"
+    },
+    {
+      "id": "erin-firlotte",
+      "name": "Erin Firlotte, M.A., Ph.D. Student",
+      "short_name": "Erin Firlotte",
+      "title": "University of Windsor Clinical Psychology Student",
+      "image": "/static/img/erin-firlotte.webp",
+      "supervisor": "Dr. Amy Tran"
+    },
+    {
+      "id": "jasmine-kobrosli",
+      "name": "Jasmine Kobrosli, M.A., Ph.D. Student",
+      "short_name": "Jasmine Kobrosli",
+      "title": "University of Windsor Clinical Psychology Student",
+      "image": "/static/img/jasmine-kobrosli.webp",
+      "supervisor": "Dr. Amy Tran"
+    },
+    {
+      "id": "ashley",
+      "name": "Ashley Laporte, B.A.",
+      "short_name": "Ashley Laporte",
+      "title": "Psychometrist",
+      "image": "/static/img/ashley-laporte.webp",
+      "populations": "Children, Adolescents, Adults",
+      "services": "Psychological Assessments, Psychoeducational Assessments, ADHD Assessments, Autism Assessments",
+      "education": "Honours Bachelor of Arts in Developmental Psychology",
+      "specialized_training": "ADOS-2 Assessment Training",
+      "bio": [
+        "As a valued member of our team that provides psychological assessments, Ashley brings with her 14 years of experience administering psychological tests to clients of all ages. Ashley has supported psychological assessments in both school and clinical settings. Her warm personality and friendly demeanor provide optimal comfort so that clients can feel comfortable to do their best."
+      ]
+    },
+    {
+      "id": "doris",
+      "name": "Doris Weber, B.A., B.Ed.",
+      "short_name": "Doris Weber",
+      "title": "Psychometrist",
+      "image": "/static/img/doris-weber.webp",
+      "populations": "Children and Adolescents",
+      "services": "Psychoeducational Assessments",
+      "education": "Bachelor of Arts, Bachelor of Education",
+      "specialized_training": "FSL, TESL certified",
+      "bio": [
+        "Doris taught for 30 years, including 20 years at the elementary level, where she taught French as a Second Language. She also enjoyed 10 years of teaching adult newcomers to Canada as a certified English as a Second Language teacher. Doris enjoys working with children and providing a calm, comforting environment that helps them reach their full potential during testing activities."
+      ]
+    },
+    {
+      "id": "rob",
+      "name": "Rob Kapetanov, B.A., B.Ed.",
+      "short_name": "Rob Kapetanov",
+      "title": "Psychometrist",
+      "image": "/static/img/rob-kapetanov.webp",
+      "populations": "Children, Adolescents, Adults",
+      "services": "Psychoeducational Assessments",
+      "education": "Bachelor of Arts, Bachelor of Education",
+      "specialized_training": "Special Education Specialist AQ, Computer in the Classroom Specialist AQ, Principal's Qualifications",
+      "bio": [
+        "Rob has more than 30 years of experience as a teacher, Special Education Consultant, and principal. He has also taught a variety of special education courses at the postsecondary level through the Faculty of Education and St. Clair College. Rob serves as a trustee for the John McGivney School Authority, which supports children with complex therapeutic needs. Rob enjoys applying his experiences in education to support psychological testing."
+      ]
+    },
+    {
+      "id": "ben-mazur",
+      "name": "Benjamin Mazur",
+      "short_name": "Benjamin Mazur",
+      "title": "Administrative Director",
+      "image": "/static/img/ben-mazur.webp",
+      "services": "Office Administration, Clinical Operations Support",
+      "bio": [
+        "As Administrative Director, Ben provides leadership to Cornerstone’s Clinic Manager and administrative team and oversees the day-to-day systems and operations that support the clinic. He works closely with the Cornerstone team to ensure the practice remains organized, responsive, and well positioned to meet the needs of clients, families, and clinicians.",
+        "Ben brings extensive experience in entrepreneurship, operations, and organizational leadership to his role. Throughout his career, he has built and led teams, managed complex organizations and projects, and developed a reputation for bringing structure and practical solutions to challenging situations. He brings that experience to Cornerstone, focusing on supporting its people, strengthening the organization, and helping the clinic operate smoothly while maintaining the quality and personal approach that families expect.",
+        "Ben and Dr. Amy Tran hold a long-term commitment to Cornerstone and to serving children, adults, and families throughout Windsor-Essex. They are focused on continuing to build a practice known not only for the quality of its psychological services, but also for being a welcoming, dependable, and supportive place for both clients and team members."
+      ]
+    },
+    {
+      "id": "maggie",
+      "name": "Maggie Davey",
+      "short_name": "Maggie Davey",
+      "title": "Administrator",
+      "image": "/static/img/maggie-davey.webp",
+      "bio": [
+        "Maggie comes to Cornerstone Family Care with more than 18 years of medical office administration experience, the majority of her time working in specialists offices and hospitals. Maggie prides herself on ensuring that all clients are treated with kindness, respect, and the prompt care that they deserve. She has a friendly, calming nature and looks forward to supporting you and your family."
+      ]
+    },
+    {
+      "id": "irene",
+      "name": "Irene Schiller",
+      "short_name": "Irene Schiller",
+      "title": "Administrator",
+      "image": "/static/img/irene-schiller.webp",
+      "education": "Bachelor of Education, Diploma in Honours Standing in Physical Education, Bachelor of Arts in Physical Education",
+      "bio": [
+        "Irene comes to Cornerstone Family Care with over 20 years of administrative support experience, from account management and customer service to executive administrative assistant. She strives for service excellence and ensures clients are dealt with in a timely and efficient manner with the utmost of respect and care. She also strives to be a team player for the organization; helping out wherever she can and working behind the scenes to support the professionals taking care of our clients."
+      ]
+    }
+  ],
+  "all": [
+    {
+      "id": "heather",
+      "name": "Dr. Heather Hallam-Helbich, Ph.D., C.Psych., C.T.S.",
+      "short_name": "Dr. Heather Hallam-Helbich",
+      "title": "Clinical Director, Registered Psychologist, Certified Trauma Specialist",
+      "image": "/static/img/dr-heather-hallam-helbich.webp",
+      "populations": "Children, Adolescents, Parents",
+      "services": "Psychotherapy, Psychological Assessments, Psychoeducational Assessments, ADHD Assessments, Autism Assessments",
+      "education": "Honours Bachelor in Psychology, Masters in Educational Psychology, Doctorate in Clinical Psychology",
+      "membership": "College of Psychologists and Behaviour Analysts of Ontario, Canadian Psychological Association",
+      "areas_of_focus": "Anxiety, Depression, Trauma, ADHD, Autism, Self-Esteem, Parenting, OCD, Behavioural Concerns, Emotional Regulation, Learning Disabilities; Developmental Delay, Adjustment Disorders",
+      "specialized_training": "Certified Trauma Specialist",
+      "therapy_toolkit": "Behaviour Therapy, CBT, DBT, Solution-Focused Therapy",
+      "bio": [
+        "Dr. Hallam-Helbich considers it an absolute privilege and joy to work with clients ages 3 to 25 to support them and their parents collaboratively. She brings more than 30 years of experience working with people from a range of cultural and socioeconomic backgrounds. In her work, she incorporates therapeutic approaches, play therapy techniques, and hands-on activities to support cognitive and behavioural change, renewed confidence, and growth.",
+        "Dr. Hallam-Helbich completes thorough assessments to identify clients’ cognitive, academic, socio-emotional, and behavioural needs. She helps clarify diagnoses and provides appropriate referrals so clients and parents can advocate for themselves or their children. She helps individuals obtain educational plans that support them in reaching their potential and provides parents with behaviour management strategies and support for addressing difficult issues at home."
+      ]
+    },
+    {
+      "id": "amy",
+      "name": "Amy Wilson",
+      "short_name": "Amy Wilson",
+      "title": "Clinic Manager",
+      "image": "/static/img/amy-wilson.webp",
+      "services": "Client Support, Office Administration, Clinical Operations Support",
+      "bio": [
+        "Amy Wilson has more than 25 years of customer service and office systems experience. Her healthcare training provided a deep appreciation for client relations and confidentiality, which is a valuable benefit to our clients and the clinic’s operations. Amy’s passion is helping people around her and building strong supportive relationships."
+      ]
+    },
+    {
+      "id": "amy-tran",
+      "name": "Dr. Amy Tran, Ph.D., C.Psych.",
+      "short_name": "Dr. Amy Tran",
+      "title": "Registered Psychologist",
+      "image": "/static/img/dr-amy-tran.webp",
+      "populations": "Children, Adolescents, Parents",
+      "services": "Psychotherapy, Psychological Assessments, Psychoeducational Assessments, Autism Assessments, Clinical Supervision",
+      "education": "Honours Bachelor of Arts in Psychology, Master of Arts in Clinical Psychology, Doctorate in Clinical Psychology",
+      "membership": "College of Psychologists and Behaviour Analysts of Ontario, Canadian Psychological Association",
+      "areas_of_focus": "Anxiety Disorders (e.g., social anxiety, phobias, separation anxiety), Obsessive Compulsive Disorder, Depression, Trauma, Self-Esteem, ADHD, Learning Disabilities, Autism",
+      "specialized_training": "Collaborative Problem Solving, Trauma-Focused CBT",
+      "therapy_toolkit": "CBT, DBT skills, ACT, Solution-Focused Therapy, Exposure and Response Prevention",
+      "bio": [
+        "Dr. Amy Tran strongly believes that every person’s story deserves careful attention. How we understand a concern can shape how we respond to it. She takes time to understand each person’s unique experiences, strengths, relationships, and developmental needs to create a safe space where youth and families feel heard, understood, and supported.",
+        "Dr. Tran completed her Ph.D. in child and adolescent clinical psychology. Her specific training provides a strong foundation in child and adolescent development and in understanding young people’s challenges within the context of their stage of life, family, and school environment. She provides therapy and assessment services to clients with a warm, thoughtful, and collaborative approach.",
+        "Dr. Tran’s previous clinical experiences include the Regional Children’s Centre, The Summit Centre for Preschool Children with Autism, the Toronto Catholic District School Board, Grand River Hospital, and Youthdale Treatment Centres. In therapy, she employs evidence-based strategies to help clients navigate difficult emotions, strengthen relationships, and build confidence in themselves. Her work also incorporates nervous system regulation strategies to support the mind-body connection and help people feel calmer and more in control. She helps families make sense of assessment findings and understand their next steps, including how recommendations can inform educators and support teams.",
+        "Dr. Tran is also the author of <em>This Book Is a Safe Space</em>. She has served on advisory boards for mental health apps, appeared as a guest on wellness podcasts, provided workshops to various organizations, and published work in peer-reviewed research journals, magazines, and news publications. Across her clinical work and writing, she is committed to helping young people and their families feel more understood and confident about the path forward."
+      ]
+    },
+    {
+      "id": "elizabeth",
+      "name": "Elizabeth Allevato, M.A., C.Psych.",
+      "short_name": "Elizabeth Allevato",
+      "title": "Registered Psychologist",
+      "image": "/static/img/elizabeth-allevato.webp",
+      "populations": "Children, Adolescents, Adults, Seniors",
+      "services": "Psychotherapy, Psychological Assessments, Psychoeducational Assessments, Autism Assessments, Clinical Supervision",
+      "education": "Honours Bachelor of Arts in Psychology, Master of Arts Clinical and Humanistic Psychology",
+      "membership": "College of Psychologists and Behaviour Analysts of Ontario",
+      "areas_of_focus": "Anxiety, ADHD, Autism, Self-Esteem, Emotional Regulation",
+      "therapy_toolkit": "CBT, ACT, and Solution-Focused Therapy",
+      "bio": [
+        "Elizabeth has always known that she wanted to work in a helping profession. Kindness, compassion, and collaboration are at the core of her work. She believes we all benefit when we support one another in becoming the best versions of ourselves, and she strives to create a therapeutic environment where clients feel understood, respected, and empowered.",
+        "With more than 15 years of experience in both the public and private sectors, Elizabeth has developed a strong background in assessment and intervention. Much of her training has focused on Intellectual Developmental Disorder, Attention-Deficit/Hyperactivity Disorder (ADHD), Autism Spectrum Disorder (ASD), Fetal Alcohol Spectrum Disorder, Specific Learning Disorders, and anxiety disorders. More recently, she has been expanding her knowledge of mood and personality disorders as they relate to assessment and therapeutic support. Although assessments are the primary focus of her practice, she also provides therapy to a smaller caseload of children, adolescents, and adults.",
+        "Elizabeth’s approach is collaborative, flexible, and grounded in evidence-based practices. She wants clients to feel heard and validated while gently exploring patterns of thinking or behaviour that may be getting in the way of their goals. She believes therapy works best when it meets people where they are, so she adapts sessions to each person’s strengths, needs, and circumstances. With children, therapy often focuses on practical skills for emotional regulation, cognitive flexibility, attention, and impulse control. With adolescents and adults, sessions are more collaborative, with clients actively helping to set the agenda and develop their goals."
+      ]
+    },
+    {
+      "id": "kathy",
+      "name": "Kathy Morneau, MSW, RSW",
+      "short_name": "Kathy Morneau",
+      "title": "Registered Social Worker",
+      "image": "/static/img/kathy-morneau.webp",
+      "populations": "Children, Adolescents, Adults, Couples, Families, Parents, Seniors",
+      "services": "Psychotherapy",
+      "education": "Bachelor of Social Work, Master of Social Work",
+      "membership": "Ontario College of Social Workers and Social Service Workers, Ontario Association of Social Workers",
+      "areas_of_focus": "Anxiety, Depression, Trauma, ADHD, Self-Esteem, Stress, Burnout, Relationships, Parenting, Grief, OCD, Behavioural Concerns, Emotional Regulation, Life Transitions, Workplace Stress",
+      "therapy_toolkit": "CBT, DBT, Solution Focused, Brief Narrative",
+      "bio": [
+        "Kathy Morneau has been a social worker in Windsor-Essex County for over 30 years. She graduated from the University of Windsor in 1985 and has been working with children/adolescents and families since that time. Her resume includes both clinical work and leadership, having worked in both outpatient and inpatient services. Kathy is an active member of the Ontario College of Social Workers and Social Services Workers and the Ontario Association of Social Workers.",
+        "Trained in psychodynamic, cognitive behavioural and systemic approaches to therapy, Kathy tailors interventions to the needs of her clients. She provides therapy in individual and family formats, as well as parent consultation and couples therapy."
+      ]
+    },
+    {
+      "id": "kathryn-huyge",
+      "name": "Kathryn Huyge, RP",
+      "short_name": "Kathryn Huyge",
+      "title": "Registered Psychotherapist",
+      "image": "/static/img/kathryn-huyge.webp",
+      "populations": "Children, Adolescents, Adults, Parents, Seniors",
+      "services": "Psychotherapy",
+      "education": "Honours Bachelor of Social Work, Master of Arts in Counselling Psychology",
+      "membership": "College of Registered Psychotherapists of Ontario, Canadian Counselling and Psychotherapy Association",
+      "areas_of_focus": "Anxiety, Depression, Trauma, ADHD, Autism, Self-Esteem, Stress, Burnout, Relationships, Parenting, Behavioural Concerns, Emotional Regulation, Workplace Stress",
+      "therapy_toolkit": "CBT, DBT, Solution Focused Therapy",
+      "bio": [
+        "Kathryn has over 17 years of experience in the area of mental health. She also has 7 years of practice as a psychotherapist working with a diverse group of individuals (ages 10 +) and families presenting with a wide array of needs including anxiety, depression, stress management and trauma.",
+        "Kathryn has learned to first listen to understand. Once the individual is ready and feeling supported, she then assists her clients in determining their specific focus for treatment. This approach helps clients to feel that they have a strong, well-informed ally throughout their therapeutic journey."
+      ]
+    },
+    {
+      "id": "kathryn-irabelli",
+      "name": "Kathryn Irabelli, MSW",
+      "short_name": "Kathryn Irabelli",
+      "title": "Registered Social Worker",
+      "image": "/static/img/kathryn-irabelli.webp",
+      "populations": "Adults, Couples, Seniors",
+      "services": "Psychotherapy",
+      "education": "Master of Social Work",
+      "membership": "Ontario College of Social Workers and Social Service Workers, Ontario Association of Social Workers",
+      "areas_of_focus": "Anxiety, Depression, Self-Esteem, Stress, Burnout, Relationships, Grief, Behavioural Concerns, Life Transitions, Workplace Stress",
+      "therapy_toolkit": "CBT, DBT, Solution-Focused",
+      "bio": [
+        "Kathryn Irabelli has practised social work in the Windsor and Essex County area for more than 30 years. She graduated from the University of Windsor in 1992 with a Master of Social Work and has extensive experience working with children, families, adults, and couples in a variety of settings. Kathryn supports people navigating mental health and substance use concerns, stress, grief, relationship difficulties, and other life challenges."
+      ]
+    },
+    {
+      "id": "kimberly",
+      "name": "Kimberly Court, MSW, RSW",
+      "short_name": "Kimberly Court",
+      "title": "Registered Social Worker",
+      "image": "/static/img/kimberly-court.webp",
+      "populations": "Children, Adults, Couples, Parents",
+      "services": "Psychotherapy",
+      "education": "Bachelor of Social Work, Master of Social Work",
+      "membership": "Ontario College of Social Workers and Social Service Workers",
+      "areas_of_focus": "Anxiety, ADHD, Self-Esteem, Stress, Relationships, Parenting, Grief, Emotional Regulation, Life Transitions, Workplace Stress",
+      "specialized_training": "Circle of Security International facilitator; training through David Kessler for grief and loss",
+      "therapy_toolkit": "CBT, DBT, Solution Focused Therapy, Grief/Loss, Narrative and Strengths Based Therapy, Gottman",
+      "bio": [
+        "Kim believes that when life feels overwhelming, heartbreaking, or challenging, people possess inner resources that can help them move forward. She also recognizes that doing this work alone is difficult and that being vulnerable can feel scary. Having someone to navigate these seasons with can make a profound difference.",
+        "Kim recognizes that clients are the experts in their own lives. She works collaboratively with them to identify personal goals, reconnect with their innate strengths, and build the skills they need to move forward. Her hope is that clients leave their sessions feeling more confident, emotionally healthy, and empowered.",
+        "Kim tailors her approach to each individual or couple. She draws on a range of evidence-based approaches, including grief and loss therapy, strengths-based and narrative approaches, cognitive and dialectical behavioural therapies, solution-focused therapy, Gottman methods, and Collaborative Problem Solving. She is also a trained facilitator with Circle of Security International and provides reflective, attachment-based parenting support.",
+        "Above all, Kim wants clients to feel safe, heard, and validated. She offers an empathetic, compassionate, and nonjudgmental space where they can share their stories and begin their healing journey."
+      ]
+    },
+    {
+      "id": "levi",
+      "name": "Levi Rogers, MSW, RSW",
+      "short_name": "Levi Rogers",
+      "title": "Registered Social Worker",
+      "image": "/static/img/levi-rogers.webp",
+      "populations": "Children, Adolescents, Adults, Families, Parents, Seniors",
+      "services": "Psychotherapy, Individual and Family Counselling",
+      "education": "Master of Social Work, Bachelor of Social Work, Child and Youth Care Diploma, Developmental Services Worker Diploma",
+      "membership": "Ontario College of Social Workers and Social Service Workers, Ontario Association of Social Workers",
+      "areas_of_focus": "Anxiety, Depression, Trauma, ADHD, Self-Esteem, Stress, Burnout, Relationships, Parenting, OCD, Behavioural Concerns, Emotional Regulation, Life Transitions, Workplace Stress, Self-harm, school and work avoidance, parent-child conflict, interpersonal effectiveness",
+      "specialized_training": "Worry No More Training (Anxiety) with Dr. Aureen Wagner, Worry No More Training (OCD) w/ Dr. Aureen Wagner, Group Triple P Facilitator (Positive Parenting Program) Training for Teens and Groups, CPRI Leaky Brakes (Tics) Training, DBT Skills for Adolescents & Families (Psychwire), Foundations of Trauma Focused CBT Training, BECK Institute – Essentials of CBT, Body Peace: Eating Disorder Sensitive: Education for Social Workers & Psychotherapists Training, Trans Wellness Ontario – Diversity Training, 2SLGBTQ+ Training 101 – Pozitive Pathways, LGBTQ+ Clients: Treatment Strategies for Sexual and Gender Identity Issues w/ Aaron Testard, LMFT, LPCC.",
+      "therapy_toolkit": "CBT, Trauma-Focused CBT, DBT, Emotion regulation skills teaching, interpersonal effectiveness skills teaching, Mindfulness, Motivational Interviewing, Solution-Focused Therapy, Exposure and Response Prevention (ERP)",
+      "bio": [
+        "Levi is a Registered Social Worker with experience supporting youth, adults, and families in various clinical settings since 2015. He began practicing as an individual and family therapist in 2020. He has worked at local mental health agencies which helped him to establish a strong clinical foundation and knowledge of supports available in the community to youth and their families. He graduated with a Master of Social Work degree from the University of Windsor and has an Ontario College Advanced Diploma in Child and Youth Care (CYC/CYW) and Developmental Services Worker (DSW).",
+        "Accredited as a Triple-P (Positive Parenting Program) facilitator, Levi has experience supporting parents and families with treating behavioral and emotional challenges experienced by children and youth.",
+        "Levi is trained in several therapeutic treatment modalities. He takes a collaborative, trauma-informed and anti-oppressive approach to supporting clients in meeting their personal goals. Levi is a compassionate, engaging, and skilled clinician who prioritizes empathy and respect for his clients. He recognizes that attending therapy may not come easy to each person, and therefore is committed to building a comfortable and safe environment where clients feel seen, heard, and valued.",
+        "Levi teaches part-time in St. Clair College’s Developmental Services Worker program, which trains professionals to support people with intellectual and developmental disabilities throughout their lives. Graduates work as support workers, advocates, or educational assistants. He enjoys teaching developmental psychology, positive behavioural supports, interpersonal counselling, dual diagnosis, and mental health intervention."
+      ]
+    },
+    {
+      "id": "samantha",
+      "name": "Samantha McKinley, MSW, RSW",
+      "short_name": "Samantha McKinley",
+      "title": "Registered Social Worker",
+      "image": "/static/img/samantha-mckinley.webp",
+      "populations": "Youth, Adults, Couples, Families, Parents, Seniors",
+      "services": "Psychotherapy",
+      "education": "Bachelor of Social Work, Master of Social Work",
+      "membership": "Ontario College of Social Workers and Social Service Workers",
+      "areas_of_focus": "Anxiety, Depression, Self-Esteem, Stress, Burnout, Relationships, Parenting, Life Transitions, Workplace Stress, Marriage breakdown, separation, divorce",
+      "therapy_toolkit": "CBT, Emotion-Focused Therapy, Gottman Method, Solution-Focused Therapy",
+      "bio": [
+        "Samantha is a compassionate social worker dedicated to supporting the wellbeing of individuals and families.",
+        "She is skilled at helping adults, youth, and children to navigate through life’s challenges with empathy and a nonjudgmental approach. Samantha has a special interest in guiding clients through separation and divorce, strengthening marriage and long-term relationships, nurturing parent management skills, and embracing the joys and challenges of first-time parenting. Samantha is particularly adept at working with blended families and parenting stepchildren, as well as addressing postpartum depression, family dynamics, and setting boundaries. She is passionate about helping individuals to boost their self-esteem and self-worth, encouraging them to recognize and celebrate their unique strengths and qualities.",
+        "Samantha believes strong families create a healthier society. She is committed to helping clients cultivate self-compassion, resilience, and emotional wellbeing.",
+        "In addition, Samantha has a background in family law, helping families and individuals during transitions, family interventions, and child protection. She currently also work within a branch of the Attorney General of Ontario as an investigative clinician completing custody and access assessments."
+      ]
+    },
+    {
+      "id": "stephanie",
+      "name": "Stephanie Tellier, RP, CCC",
+      "short_name": "Stephanie Tellier",
+      "title": "Registered Psychotherapist",
+      "image": "/static/img/stephanie-tellier.webp",
+      "populations": "Adults, Couples, Adolescents (16+)",
+      "services": "Psychotherapy",
+      "education": "Bachelor of Arts in Family and Social Relations, Master of Arts in Clinical Mental Health Counseling, Master of Education in Human Sexuality Studies - Sex Therapy Specialization, Doctorate in Human Sexuality Studies - Sex Therapy Specialization (in progress)",
+      "membership": "College of Registered Psychotherapists of Ontario, Canadian Certified Counsellor",
+      "areas_of_focus": "Anxiety, Depression, Trauma, Relationships, LGBTQ+ Concerns, Sexuality (sexual trauma, post partum, sexual dysfunctions, consensual/ethical non monogamy, BDSM/kink)",
+      "specialized_training": "Intensive Sex Therapy Training Program",
+      "therapy_toolkit": "Integrative, trauma-informed, sex-positive, person-centered, CBT, DBT, Solution-focused",
+      "bio": [
+        "Stephanie values collaboration, authenticity, and curiosity. She strives to create a safe, nonjudgmental space where clients can explore their emotions, relationships, identity, sexuality, stress, and life transitions. Her work focuses on helping clients build self-awareness, emotional regulation, communication skills, and self-compassion while developing more flexible and adaptive ways of coping.",
+        "Stephanie is passionate about providing sexuality-affirming and inclusive care. She is currently pursuing a PhD, with research focused on sexuality, disability, rehabilitation, and adaptive approaches to intimacy and sexual wellbeing."
+      ]
+    },
+    {
+      "id": "taryn",
+      "name": "Taryn Duffy, MSW, RSW",
+      "short_name": "Taryn Duffy",
+      "title": "Registered Social Worker",
+      "image": "/static/img/taryn-duffy.webp",
+      "populations": "Adolescents, Adults, Seniors",
+      "services": "Psychotherapy",
+      "education": "Bachelor of Social Work, Master of Social Work",
+      "membership": "Ontario College of Social Workers and Social Service Workers",
+      "areas_of_focus": "Anxiety, Depression, Trauma, ADHD, Self-Esteem, Stress, Burnout, Grief, Emotional Regulation, Life Transitions",
+      "therapy_toolkit": "Person-centered approach, mindfulness based therapy, CBT, DBT, EMDR",
+      "bio": [
+        "Taryn believes connection between client and therapist is the backbone of therapy. She builds strong rapport with her clients by offering a comforting, kind and grounded space, where clients can feel safe to unpack some of life's heavier moments. Her goal is for each person to feel heard, understood, and supported.",
+        "Taryn works with youth, teens, adults, and seniors through a range of life experiences, including anxiety, trauma, grief, emotional regulation challenges, and periods of personal growth and self-discovery. She also has experience supporting neurodivergent clients.",
+        "She uses a multi-modal approach, pulling from bottom-up approaches like somatic-based, IFS, and EMDR therapy, as well as top-down approaches, such as DBT and CBT and narrative therapy.",
+        "Whether someone feels stuck, isolated, or overwhelmed, or is ready to make a change, Taryn works alongside them to explore their strengths and move toward their goals."
+      ]
+    },
+    {
+      "id": "kenzie-tapp",
+      "name": "Kenzie Tapp, M.A., Ph.D. Candidate",
+      "short_name": "Kenzie Tapp",
+      "title": "University of Windsor Clinical Psychology Student",
+      "image": "/static/img/kenzie-tapp.webp",
+      "supervisor": "Dr. Amy Tran"
+    },
+    {
+      "id": "nour-yassine",
+      "name": "Nour Yassine, M.A. Candidate, Ph.D. Student",
+      "short_name": "Nour Yassine",
+      "title": "University of Windsor Clinical Psychology Student",
+      "image": "/static/img/nour-yassine.webp",
+      "supervisor": "Elizabeth Allevato"
+    },
+    {
+      "id": "erin-firlotte",
+      "name": "Erin Firlotte, M.A., Ph.D. Student",
+      "short_name": "Erin Firlotte",
+      "title": "University of Windsor Clinical Psychology Student",
+      "image": "/static/img/erin-firlotte.webp",
+      "supervisor": "Dr. Amy Tran"
+    },
+    {
+      "id": "jasmine-kobrosli",
+      "name": "Jasmine Kobrosli, M.A., Ph.D. Student",
+      "short_name": "Jasmine Kobrosli",
+      "title": "University of Windsor Clinical Psychology Student",
+      "image": "/static/img/jasmine-kobrosli.webp",
+      "supervisor": "Dr. Amy Tran"
+    },
+    {
+      "id": "ashley",
+      "name": "Ashley Laporte, B.A.",
+      "short_name": "Ashley Laporte",
+      "title": "Psychometrist",
+      "image": "/static/img/ashley-laporte.webp",
+      "populations": "Children, Adolescents, Adults",
+      "services": "Psychological Assessments, Psychoeducational Assessments, ADHD Assessments, Autism Assessments",
+      "education": "Honours Bachelor of Arts in Developmental Psychology",
+      "specialized_training": "ADOS-2 Assessment Training",
+      "bio": [
+        "As a valued member of our team that provides psychological assessments, Ashley brings with her 14 years of experience administering psychological tests to clients of all ages. Ashley has supported psychological assessments in both school and clinical settings. Her warm personality and friendly demeanor provide optimal comfort so that clients can feel comfortable to do their best."
+      ]
+    },
+    {
+      "id": "doris",
+      "name": "Doris Weber, B.A., B.Ed.",
+      "short_name": "Doris Weber",
+      "title": "Psychometrist",
+      "image": "/static/img/doris-weber.webp",
+      "populations": "Children and Adolescents",
+      "services": "Psychoeducational Assessments",
+      "education": "Bachelor of Arts, Bachelor of Education",
+      "specialized_training": "FSL, TESL certified",
+      "bio": [
+        "Doris taught for 30 years, including 20 years at the elementary level, where she taught French as a Second Language. She also enjoyed 10 years of teaching adult newcomers to Canada as a certified English as a Second Language teacher. Doris enjoys working with children and providing a calm, comforting environment that helps them reach their full potential during testing activities."
+      ]
+    },
+    {
+      "id": "rob",
+      "name": "Rob Kapetanov, B.A., B.Ed.",
+      "short_name": "Rob Kapetanov",
+      "title": "Psychometrist",
+      "image": "/static/img/rob-kapetanov.webp",
+      "populations": "Children, Adolescents, Adults",
+      "services": "Psychoeducational Assessments",
+      "education": "Bachelor of Arts, Bachelor of Education",
+      "specialized_training": "Special Education Specialist AQ, Computer in the Classroom Specialist AQ, Principal's Qualifications",
+      "bio": [
+        "Rob has more than 30 years of experience as a teacher, Special Education Consultant, and principal. He has also taught a variety of special education courses at the postsecondary level through the Faculty of Education and St. Clair College. Rob serves as a trustee for the John McGivney School Authority, which supports children with complex therapeutic needs. Rob enjoys applying his experiences in education to support psychological testing."
+      ]
+    },
+    {
+      "id": "ben-mazur",
+      "name": "Benjamin Mazur",
+      "short_name": "Benjamin Mazur",
+      "title": "Administrative Director",
+      "image": "/static/img/ben-mazur.webp",
+      "services": "Office Administration, Clinical Operations Support",
+      "bio": [
+        "As Administrative Director, Ben provides leadership to Cornerstone’s Clinic Manager and administrative team and oversees the day-to-day systems and operations that support the clinic. He works closely with the Cornerstone team to ensure the practice remains organized, responsive, and well positioned to meet the needs of clients, families, and clinicians.",
+        "Ben brings extensive experience in entrepreneurship, operations, and organizational leadership to his role. Throughout his career, he has built and led teams, managed complex organizations and projects, and developed a reputation for bringing structure and practical solutions to challenging situations. He brings that experience to Cornerstone, focusing on supporting its people, strengthening the organization, and helping the clinic operate smoothly while maintaining the quality and personal approach that families expect.",
+        "Ben and Dr. Amy Tran hold a long-term commitment to Cornerstone and to serving children, adults, and families throughout Windsor-Essex. They are focused on continuing to build a practice known not only for the quality of its psychological services, but also for being a welcoming, dependable, and supportive place for both clients and team members."
+      ]
+    },
+    {
+      "id": "maggie",
+      "name": "Maggie Davey",
+      "short_name": "Maggie Davey",
+      "title": "Administrator",
+      "image": "/static/img/maggie-davey.webp",
+      "bio": [
+        "Maggie comes to Cornerstone Family Care with more than 18 years of medical office administration experience, the majority of her time working in specialists offices and hospitals. Maggie prides herself on ensuring that all clients are treated with kindness, respect, and the prompt care that they deserve. She has a friendly, calming nature and looks forward to supporting you and your family."
+      ]
+    },
+    {
+      "id": "irene",
+      "name": "Irene Schiller",
+      "short_name": "Irene Schiller",
+      "title": "Administrator",
+      "image": "/static/img/irene-schiller.webp",
+      "education": "Bachelor of Education, Diploma in Honours Standing in Physical Education, Bachelor of Arts in Physical Education",
+      "bio": [
+        "Irene comes to Cornerstone Family Care with over 20 years of administrative support experience, from account management and customer service to executive administrative assistant. She strives for service excellence and ensures clients are dealt with in a timely and efficient manner with the utmost of respect and care. She also strives to be a team player for the organization; helping out wherever she can and working behind the scenes to support the professionals taking care of our clients."
+      ]
+    }
+  ]
+}

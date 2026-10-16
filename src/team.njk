@@ -7,255 +7,88 @@ description: Cornerstone Family Care | Team
 
 <main id="main">
   
-  <div class="bg-[url('/static/img/team-photo.png')] bg-cover bg-no-repeat bg-top h-52 md:h-72 lg:h-120 border-b-8 border-footer-bg/75">
+  <div>
+    <img src="/static/img/team-photo.png" class="mx-auto" />
   </div>
 
   <div class="container">
 
-    <div class="flex justify-center md:justify-start">
-      <h1 class="inline-block bg-oxley-600 text-white text-2xl py-2 px-4 rounded-b-lg">Our Team</h1>
-    </div>
-
     <article>
 
       <div id="primary-team-members" class="lg:grid lg:grid-cols-2 lg:gap-12">
-        <div class="team-member">
-          <img src="/static/img/heather-crop-u4293.png" alt="Heather Hallam-Helbich">
-          <h3>
-            <span>Dr. Heather Hallam-Helbich, C. Psych. CTS</span>
-            <small>Clinical Director</small>
-          </h3>
+        {% for member in team.primary %}
+        <div class="team-member flex flex-col justify-between">
           <div>
-            <p>With over 20 years of clinical experience working with children and their families, Dr. Heather Hallam-Helbich understands that confidentiality and comfort are important factors in the outcome of assessment and therapy. As a child psychologist, Dr. Heather focuses on your child’s perceptions and behaviours while treating your whole family as a support system.</p>
-
-            <button @click="modalOpen = !modalOpen, modalMember = 'heather'" class="flex items-center justify-center">
-              Read More
-            </button>
+            <img class="rounded-t-4xl" src="{{ member.image }}" alt="{{ member.name }}">
+            <h3>
+              <span>{{ member.name }}</span>
+              <small class="block text-sm font-sans font-normal opacity-90 mt-1">{{ member.title }}</small>
+            </h3>
+            
+            <div class="space-y-3 text-sm px-1 mb-4 text-oxley-900">
+              {% if member.populations %}
+              <div>
+                <strong class="block text-xs font-bold uppercase tracking-wider text-ochre-700 mb-0.5">Populations Served</strong>
+                <p class="text-gray-700">{{ member.populations }}</p>
+              </div>
+              {% endif %}
+              {% if member.services %}
+              <div>
+                <strong class="block text-xs font-bold uppercase tracking-wider text-ochre-700 mb-0.5">Services Provided</strong>
+                <p class="text-gray-700">{{ member.services }}</p>
+              </div>
+              {% endif %}
+            </div>
           </div>
-        </div>
-        
-        <div class="team-member">
-          <img src="/static/img/carl-crop-u3136.png" alt="Carl Helbich, MMI">
-          <h3>
-            <span>Carl Helbich, MMI</span>
-            <small>Administrative Director</small>
-          </h3>
-          <p>Mr. Carl Helbich has more than 25 years of operations management experience in a variety of environments including healthcare education. As Administrative Director, Carl’s goal is to create an efficient and welcoming environment for Cornerstone staff and clients. From appointment scheduling and billing to developing practitioner resources and community relations, his focus is always on increasing the quality of relationships both inside and outside of the clinic.</p>
           
-          <button @click="modalOpen = !modalOpen, modalMember = 'carl'" class="flex items-center justify-center">
+          {% if member.bio and member.bio.length > 0 %}
+          <button @click="modalOpen = !modalOpen, modalMember = '{{ member.id }}'" class="flex items-center justify-center">
             Read More
           </button>
+          {% endif %}
         </div>
+        {% endfor %}
       </div> <!-- primary-team-members -->
       
       <div id="all-team-members" class="md:grid md:grid-cols-2 md:gap-8 lg:grid-cols-3 lg:gap-8">
-        <div class="team-member">
-          <img src="/static/img/amy dool-crop-u4846.png" alt="Amy Wilson">
-          <h3>
-            <span>Amy Wilson</span>
-            <small>Clinic Manager</small>
-          </h3>
-          <p>Amy Wilson comes to Cornerstone with more than 15 years of customer service and office systems experience. Her healthcare training as a Certified Transcriptionist and deep appreciation for client confidentiality is a valuable benefit to our clients and our clinical operations.</p>
+        {% for member in team.members %}
+        <div class="team-member flex flex-col justify-between">
+          <div>
+            <img class="rounded-t-4xl" src="{{ member.image }}" alt="{{ member.name }}">
+            <h3>
+              <span>{{ member.name }}</span>
+              <small class="block text-sm font-sans font-normal opacity-90 mt-1">{{ member.title }}</small>
+            </h3>
+            
+            <div class="space-y-3 text-sm px-1 mb-4 text-oxley-900">
+              {% if member.populations %}
+              <div>
+                <strong class="block text-xs font-bold uppercase tracking-wider text-ochre-700 mb-0.5">Populations Served</strong>
+                <p class="text-gray-700">{{ member.populations }}</p>
+              </div>
+              {% endif %}
+              {% if member.services %}
+              <div>
+                <strong class="block text-xs font-bold uppercase tracking-wider text-ochre-700 mb-0.5">Services Provided</strong>
+                <p class="text-gray-700">{{ member.services }}</p>
+              </div>
+              {% endif %}
+              {% if member.supervisor %}
+              <div>
+                <strong class="block text-xs font-bold uppercase tracking-wider text-ochre-700 mb-0.5">Supervisor</strong>
+                <p class="text-gray-700">{{ member.supervisor }}</p>
+              </div>
+              {% endif %}
+            </div>
+          </div>
           
-          <button @click="modalOpen = !modalOpen, modalMember = 'amy'" class="flex items-center justify-center">
+          {% if member.bio and member.bio.length > 0 %}
+          <button @click="modalOpen = !modalOpen, modalMember = '{{ member.id }}'" class="flex items-center justify-center">
             Read More
           </button>
+          {% endif %}
         </div>
-
-        <div class="team-member">
-          <img src="/static/img/amy-tran.png" alt="Dr. Amy Tran">
-          <h3>
-            <span>Dr. Amy Tran</span>
-            <small> Registered Psychologist</small>
-          </h3>
-          <p>Dr. Amy Tran provides therapy and assessment services to children and adolescents using a warm and collaborative approach. She works closely with each child and their family to understand their unique strengths and needs to create a space where youth feel safe, seen, and supported.</p>
-          
-          <button @click="modalOpen = !modalOpen, modalMember = 'amy-tran'" class="flex items-center justify-center">
-            Read More
-          </button>
-        </div>
-        
-        <div class="team-member">
-          <img src="/static/img/kathryn-huyge.png" alt="Kathryn Huyge">
-          <h3>
-            <span>Kathryn Huyge</span>
-            <small> Registered Psychotherapist (Supervised Practice)</small>
-          </h3>
-          <p>Kathryn has over 17 years of experience in the area of mental health. She also has 7 years of practice as a psychotherapist working with a diverse group of individuals (ages 10 +) and families presenting with a wide array of needs including anxiety, depression, stress management and trauma.</p>
-          
-          <button @click="modalOpen = !modalOpen, modalMember = 'kathryn-huyge'" class="flex items-center justify-center">
-            Read More
-          </button>
-        </div>
-        
-        <div class="team-member">
-          <img src="/static/img/taryn-duffy.png" alt="Taryn Duffy, MSW">
-          <h3>
-            <span>Taryn Duffy, MSW</span>
-            <small>Registered Social Worker</small>
-          </h3>
-          <p>At the heart of effective therapy is a strong, trusting connection. I believe that the foundation of healing lies in a genuine, empathetic relationship between therapist and client. My goal is to provide a safe, comfortable, and welcoming space where you can feel heard, understood, and supported.</p>
-          
-          <button @click="modalOpen = !modalOpen, modalMember = 'taryn'" class="flex items-center justify-center">
-            Read More
-          </button>
-        </div>
-        
-        <div class="team-member">
-          <img src="/static/img/samantha-crop-u11391.png" alt="Samantha McKinley, MSW">
-          <h3>
-            <span>Samantha McKinley, MSW</span>
-            <small>Registered Social Worker</small>
-          </h3>
-          <p>Samantha is a compassionate Registered Social Worker dedicated to supporting the wellbeing of individuals and families. She is skilled at helping adults, youth, and children to navigate through life’s challenges with empathy and a nonjudgmental approach.</p>
-          
-          <button @click="modalOpen = !modalOpen, modalMember = 'samantha'" class="flex items-center justify-center">
-            Read More
-          </button>
-        </div>
-        
-        <div class="team-member">
-          <img src="/static/img/kathy morneau-crop-u4452.png" alt="Kathy Morneau, MSW">
-          <h3>
-            <span>Kathy Morneau, MSW</span>
-            <small>Registered Social Worker</small>
-          </h3>
-          <p>Kathy Morneau, MSW, RSW has been a social worker in Windsor-Essex County for over 30 years. She graduated from the University of Windsor in 1985 and has been working with children/adolescents and families since that time.</p>
-          
-          <button @click="modalOpen = !modalOpen, modalMember = 'kathy'" class="flex items-center justify-center">
-            Read More
-          </button>
-        </div>
-        
-        <div class="team-member">
-          <img src="/static/img/kim court_new-crop-u11487.png" alt="Kimberly Court, MSW">
-          <h3>
-            <span>Kimberly Court, MSW</span>
-            <small>Registered Social Worker</small>
-          </h3>
-          <p>As a registered Social Worker with more than 25 years of experience, Kim provides a safe space for individuals, couples and families to reflect and experience personal growth.  She recognizes you as the expert in your life and empowers you to identify your goals.</p>
-          
-          <button @click="modalOpen = !modalOpen, modalMember = 'kimberly'" class="flex items-center justify-center">
-            Read More
-          </button>
-        </div>
-        
-        <div class="team-member">
-          <img src="/static/img/ashely laporte-crop-u10602.png" alt="Ashley Laporte">
-          <h3>
-            <span>Ashley Laporte</span>
-            <small>Psychometrist</small>
-          </h3>
-          <p>As a valued member of our team that provides Psychological Assessments, Ashley brings with her nearly 10 years of experience administering psychological tests to children of all ages.</p>
-          
-          <button @click="modalOpen = !modalOpen, modalMember = 'ashley'" class="flex items-center justify-center">
-            Read More
-          </button>
-        </div>
-        
-        <div class="team-member">
-          <img src="/static/img/elizabeth_allevato-crop-u11283.png" alt="Elizabeth Allevato">
-          <h3>
-            <span>Elizabeth Allevato</span>
-            <small>Registered Psychologist</small>
-          </h3>
-          <p>With over a decade of experience serving children, adolescents, and adults, Elizabeth’s work has focused on supporting individuals who are having difficulty dealing with life’s challenges. Through various assessments and therapeutic approaches, Elizabeth can help you to recognize... </p>
-          
-          <button @click="modalOpen = !modalOpen, modalMember = 'elizabeth'" class="flex items-center justify-center">
-            Read More
-          </button>
-        </div>
-        
-        <div class="team-member">
-          <img src="/static/img/stephanie tellier-crop-u4913.png" alt="Stephanie Tellier">
-          <h3>
-            <span>Stephanie Tellier</span>
-            <small>Registered Psychotherapist</small>
-          </h3>
-          <p>Stephanie is a sex-positive therapist working with individuals and partners (16 years and older) in navigating various aspects of human sexuality.  She provides affirmative care focused on sexual diversity, including LGBTQ+, open relationships, polyamory, and BDSM/kink...</p>
-          
-          <button @click="modalOpen = !modalOpen, modalMember = 'stephanie'" class="flex items-center justify-center">
-            Read More
-          </button>
-        </div>
-        
-        <div class="team-member">
-          <img src="/static/img/kathryn irabelli-crop-u8006.png" alt="Kathryn Irabelli, MSW">
-          <h3>
-            <span>Kathryn Irabelli, MSW</span>
-            <small>Registered Social Worker</small>
-          </h3>
-          <p>Kathryn Irabelli is a registered Clinical Social Worker with the Ontario College of Social Workers and Social Service Workers as well as a member of the Ontario Association of Social Workers.</p>
-          
-          <button @click="modalOpen = !modalOpen, modalMember = 'kathryn'" class="flex items-center justify-center">
-            Read More
-          </button>
-        </div>
-        
-        <div class="team-member">
-          <img src="/static/img/doris weber-crop-u11631.png" alt="Doris Weber">
-          <h3>
-            <span>Doris Weber</span>
-            <small>Psychometrist</small>
-          </h3>
-          <p>Doris Weber provides psychological assessments for children from elementary to high school levels.  A graduate of the University of Windsor with B.A and B.Ed. degrees, she has 30 years of teaching experience, 20 of those years at the elementary level.</p>
-          
-          <button @click="modalOpen = !modalOpen, modalMember = 'doris'" class="flex items-center justify-center">
-            Read More
-          </button>
-        </div>
-        
-        <div class="team-member">
-          <img src="/static/img/rob kapetanov-crop-u11763.png" alt="Rob Kapetanov">
-          <h3>
-            <span>Rob Kapetanov</span>
-            <small>Psychometrist</small>
-          </h3>
-          <p>Rob Kapetanov, B.A. B. Ed.,  has over 30 years experience as a Teacher, Special, Education Consultant, and school Principal. He had been an instructor at the post-secondary level teaching a variety of special education courses.</p>
-          
-          <button @click="modalOpen = !modalOpen, modalMember = 'rob'" class="flex items-center justify-center">
-            Read More
-          </button>
-        </div>
-        
-        <div class="team-member">
-          <img src="/static/img/levi pic-crop-u11991.png" alt="Levi Rogers, MSW">
-          <h3>
-            <span>Levi Rogers, MSW</span>
-            <small>Registered Social Worker</small>
-          </h3>
-          <p>Levi is a Registered Social Worker with over eight years of experience supporting youth, adults, and their families in various clinical settings. He graduated with a Master of Social Work degree from the University of Windsor and has an Ontario College Advanced Diploma in Child and...</p>
-          
-          <button @click="modalOpen = !modalOpen, modalMember = 'levi'" class="flex items-center justify-center">
-            Read More
-          </button>
-        </div>
-        
-        <div class="team-member">
-          <img src="/static/img/maggie 1-crop-u10963.png" alt="Maggie Davey">
-          <h3>
-            <span>Maggie Davey</span>
-            <small>Administrator</small>
-          </h3>
-          <p>Maggie comes to Cornerstone Family Care with more than 13 years of medical office administration experience, the majority of her time working in specialists offices and hospitals.</p>
-          
-          <button @click="modalOpen = !modalOpen, modalMember = 'maggie'" class="flex items-center justify-center">
-            Read More
-          </button>
-        </div>
-        
-        <div class="team-member">
-          <img src="/static/img/irene schiller-crop-u11756.png" alt="Irene Schiller">
-          <h3>
-            <span>Irene Schiller</span>
-            <small>Administrator</small>
-          </h3>
-          <p>Irene comes to Cornerstone Family Care with over 20 years of administrative support experience, from account management and customer service to executive administrative assistant.</p>
-          
-          <button @click="modalOpen = !modalOpen, modalMember = 'irene'" class="flex items-center justify-center">
-            Read More
-          </button>
-        </div>
+        {% endfor %}
       </div> <!-- all-team-members -->
       
     </article>

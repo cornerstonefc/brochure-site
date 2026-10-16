@@ -16,7 +16,7 @@
     </head>
     {# <script async src="https://www.googletagmanager.com/gtag/js?id=AW-879687189"></script>
     <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-879687189');</script> #}
-    <body x-data="{ navActive: false, modalOpen: false, modalMember: null }">
+    <body x-data="{ navActive: false, modalOpen: false, modalMember: null }" :class="{ 'overflow-hidden': modalOpen }">
         <a href="#main" class="skip-link">Skip to main content</a>
         {% include "header.njk" %}
         {{ content | safe }}
