@@ -218,22 +218,6 @@
   ],
   "students": [
     {
-      "id": "kenzie-tapp",
-      "name": "Kenzie Tapp, M.A., Ph.D. Candidate",
-      "short_name": "Kenzie Tapp",
-      "title": "University of Windsor Clinical Psychology Student",
-      "image": "/static/img/kenzie-tapp.webp",
-      "supervisor": "Dr. Amy Tran"
-    },
-    {
-      "id": "nour-yassine",
-      "name": "Nour Yassine, M.A. Candidate, Ph.D. Student",
-      "short_name": "Nour Yassine",
-      "title": "University of Windsor Clinical Psychology Student",
-      "image": "/static/img/nour-yassine.webp",
-      "supervisor": "Elizabeth Allevato"
-    },
-    {
       "id": "erin-firlotte",
       "name": "Erin Firlotte, M.A., Ph.D. Student",
       "short_name": "Erin Firlotte",
@@ -248,6 +232,22 @@
       "title": "University of Windsor Clinical Psychology Student",
       "image": "/static/img/jasmine-kobrosli.webp",
       "supervisor": "Dr. Amy Tran"
+    },
+    {
+      "id": "kenzie-tapp",
+      "name": "Kenzie Tapp, M.A., Ph.D. Candidate",
+      "short_name": "Kenzie Tapp",
+      "title": "University of Windsor Clinical Psychology Student",
+      "image": "/static/img/kenzie-tapp.webp",
+      "supervisor": "Dr. Amy Tran"
+    },
+    {
+      "id": "nour-yassine",
+      "name": "Nour Yassine, M.A. Candidate, Ph.D. Student",
+      "short_name": "Nour Yassine",
+      "title": "University of Windsor Clinical Psychology Student",
+      "image": "/static/img/nour-yassine.webp",
+      "supervisor": "Elizabeth Allevato"
     }
   ],
   "psychometrists": [
@@ -516,38 +516,6 @@
       ]
     },
     {
-      "id": "kenzie-tapp",
-      "name": "Kenzie Tapp, M.A., Ph.D. Candidate",
-      "short_name": "Kenzie Tapp",
-      "title": "University of Windsor Clinical Psychology Student",
-      "image": "/static/img/kenzie-tapp.webp",
-      "supervisor": "Dr. Amy Tran"
-    },
-    {
-      "id": "nour-yassine",
-      "name": "Nour Yassine, M.A. Candidate, Ph.D. Student",
-      "short_name": "Nour Yassine",
-      "title": "University of Windsor Clinical Psychology Student",
-      "image": "/static/img/nour-yassine.webp",
-      "supervisor": "Elizabeth Allevato"
-    },
-    {
-      "id": "erin-firlotte",
-      "name": "Erin Firlotte, M.A., Ph.D. Student",
-      "short_name": "Erin Firlotte",
-      "title": "University of Windsor Clinical Psychology Student",
-      "image": "/static/img/erin-firlotte.webp",
-      "supervisor": "Dr. Amy Tran"
-    },
-    {
-      "id": "jasmine-kobrosli",
-      "name": "Jasmine Kobrosli, M.A., Ph.D. Student",
-      "short_name": "Jasmine Kobrosli",
-      "title": "University of Windsor Clinical Psychology Student",
-      "image": "/static/img/jasmine-kobrosli.webp",
-      "supervisor": "Dr. Amy Tran"
-    },
-    {
       "id": "ashley",
       "name": "Ashley Laporte, B.A.",
       "short_name": "Ashley Laporte",
@@ -622,6 +590,38 @@
       "bio": [
         "Irene comes to Cornerstone Family Care with over 20 years of administrative support experience, from account management and customer service to executive administrative assistant. She strives for service excellence and ensures clients are dealt with in a timely and efficient manner with the utmost of respect and care. She also strives to be a team player for the organization; helping out wherever she can and working behind the scenes to support the professionals taking care of our clients."
       ]
+    },
+    {
+      "id": "erin-firlotte",
+      "name": "Erin Firlotte, M.A., Ph.D. Student",
+      "short_name": "Erin Firlotte",
+      "title": "University of Windsor Clinical Psychology Student",
+      "image": "/static/img/erin-firlotte.webp",
+      "supervisor": "Dr. Amy Tran"
+    },
+    {
+      "id": "jasmine-kobrosli",
+      "name": "Jasmine Kobrosli, M.A., Ph.D. Student",
+      "short_name": "Jasmine Kobrosli",
+      "title": "University of Windsor Clinical Psychology Student",
+      "image": "/static/img/jasmine-kobrosli.webp",
+      "supervisor": "Dr. Amy Tran"
+    },
+    {
+      "id": "kenzie-tapp",
+      "name": "Kenzie Tapp, M.A., Ph.D. Candidate",
+      "short_name": "Kenzie Tapp",
+      "title": "University of Windsor Clinical Psychology Student",
+      "image": "/static/img/kenzie-tapp.webp",
+      "supervisor": "Dr. Amy Tran"
+    },
+    {
+      "id": "nour-yassine",
+      "name": "Nour Yassine, M.A. Candidate, Ph.D. Student",
+      "short_name": "Nour Yassine",
+      "title": "University of Windsor Clinical Psychology Student",
+      "image": "/static/img/nour-yassine.webp",
+      "supervisor": "Elizabeth Allevato"
     }
   ],
   "all": [
@@ -839,38 +839,6 @@
       ]
     },
     {
-      "id": "kenzie-tapp",
-      "name": "Kenzie Tapp, M.A., Ph.D. Candidate",
-      "short_name": "Kenzie Tapp",
-      "title": "University of Windsor Clinical Psychology Student",
-      "image": "/static/img/kenzie-tapp.webp",
-      "supervisor": "Dr. Amy Tran"
-    },
-    {
-      "id": "nour-yassine",
-      "name": "Nour Yassine, M.A. Candidate, Ph.D. Student",
-      "short_name": "Nour Yassine",
-      "title": "University of Windsor Clinical Psychology Student",
-      "image": "/static/img/nour-yassine.webp",
-      "supervisor": "Elizabeth Allevato"
-    },
-    {
-      "id": "erin-firlotte",
-      "name": "Erin Firlotte, M.A., Ph.D. Student",
-      "short_name": "Erin Firlotte",
-      "title": "University of Windsor Clinical Psychology Student",
-      "image": "/static/img/erin-firlotte.webp",
-      "supervisor": "Dr. Amy Tran"
-    },
-    {
-      "id": "jasmine-kobrosli",
-      "name": "Jasmine Kobrosli, M.A., Ph.D. Student",
-      "short_name": "Jasmine Kobrosli",
-      "title": "University of Windsor Clinical Psychology Student",
-      "image": "/static/img/jasmine-kobrosli.webp",
-      "supervisor": "Dr. Amy Tran"
-    },
-    {
       "id": "ashley",
       "name": "Ashley Laporte, B.A.",
       "short_name": "Ashley Laporte",
@@ -945,6 +913,38 @@
       "bio": [
         "Irene comes to Cornerstone Family Care with over 20 years of administrative support experience, from account management and customer service to executive administrative assistant. She strives for service excellence and ensures clients are dealt with in a timely and efficient manner with the utmost of respect and care. She also strives to be a team player for the organization; helping out wherever she can and working behind the scenes to support the professionals taking care of our clients."
       ]
+    },
+    {
+      "id": "erin-firlotte",
+      "name": "Erin Firlotte, M.A., Ph.D. Student",
+      "short_name": "Erin Firlotte",
+      "title": "University of Windsor Clinical Psychology Student",
+      "image": "/static/img/erin-firlotte.webp",
+      "supervisor": "Dr. Amy Tran"
+    },
+    {
+      "id": "jasmine-kobrosli",
+      "name": "Jasmine Kobrosli, M.A., Ph.D. Student",
+      "short_name": "Jasmine Kobrosli",
+      "title": "University of Windsor Clinical Psychology Student",
+      "image": "/static/img/jasmine-kobrosli.webp",
+      "supervisor": "Dr. Amy Tran"
+    },
+    {
+      "id": "kenzie-tapp",
+      "name": "Kenzie Tapp, M.A., Ph.D. Candidate",
+      "short_name": "Kenzie Tapp",
+      "title": "University of Windsor Clinical Psychology Student",
+      "image": "/static/img/kenzie-tapp.webp",
+      "supervisor": "Dr. Amy Tran"
+    },
+    {
+      "id": "nour-yassine",
+      "name": "Nour Yassine, M.A. Candidate, Ph.D. Student",
+      "short_name": "Nour Yassine",
+      "title": "University of Windsor Clinical Psychology Student",
+      "image": "/static/img/nour-yassine.webp",
+      "supervisor": "Elizabeth Allevato"
     }
   ]
 }
